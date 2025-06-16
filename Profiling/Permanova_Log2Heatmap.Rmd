@@ -1,0 +1,286 @@
+---
+title: "Log2_Heatmap"
+output: html_document
+date: "2025-05-14"
+---
+
+#Normalized ASV Table Preparation
+```{r , eval=FALSE}
+rm(list = ls())
+gc()
+suppressMessages({
+  library("tidyverse")
+  library("phyloseq")
+  library("rstatix")
+  library("vegan")
+  library("picante")
+  library("ggpubr")
+  library(vegan)
+  library(dplyr)
+  library(tidyr)
+  library(ggplot2)
+  library(microbiomeutilities)
+  library(viridis)
+  library(patchwork)
+  library(pheatmap)
+  library(RColorBrewer)
+  library(reshape2)
+})
+no_of_cores = 16
+setwd("/work/benson/bpeng4/Givaudan/Givaudan_All_16S")
+load("intermediate/Givaudian_ps.rda")
+ls()
+ps
+
+#Remove Fs
+ps <- subset_samples(ps , Category != "FS")
+#Remove Spaces
+# Remove leading/trailing whitespace from all levels in the Category column
+ps@sam_data$Category <- trimws(ps@sam_data$Category)
+
+###Pre-arrangement on  the phyloseq file
+################
+ps.clean <- subset_taxa(ps, Kingdom == "Bacteria") %>%
+  subset_taxa(!is.na(Phylum)) %>%
+  subset_taxa(!Class %in% c("Chloroplast")) %>%
+  subset_taxa(!Family %in% c("Mitochondria"))
+ps.clean
+#ps.clean.re <- transform_sample_counts(ps.clean, function(x) x / sum(x))
+#Filter Out Taxa Exist in At Least 25% samples
+ps.clean.p0 <- filter_taxa(ps.clean, function (x) {sum(x > 0) >= 251}, prune=TRUE)
+ps.clean.p0
+
+ps.rare<-rarefy_even_depth(ps.clean.p0, sample.size = 6138,
+                           rngseed = 111, replace = TRUE, trimOTUs = TRUE, verbose = TRUE)
+
+ps.rare<-subset_samples(ps.rare, !ps.rare@sam_data$Category == "FBB16")
+
+ps.genus = phyloseq::tax_glom(ps.rare, taxrank = rank_names(ps.rare)[6])
+```
+
+#Write a Function for Permanova Test Filteration
+```{r}
+ps.filter<-function(ps.genus){
+  #Extract OTU/ASV table and metadata:
+  otu_table <- as.data.frame(otu_table(ps.genus))
+  metadata <- data.frame(sample_data(ps.genus))  # Force conversion
+  taxa_table<- as.data.frame(tax_table(ps.genus))
+
+  #Use the adonis function (PERMANOVA) from vegan to analyze treatment(Sample) effects
+  metadata$Sample <- as.factor(metadata$Sample)  # Ensure it's a factor
+  adonis_results <- adonis2(otu_table ~ Sample, data = metadata, permutations = 999, method = "bray")
+  
+  #Extract p-values
+  p_value <- adonis_results$`Pr(>F)`[1]  # Extract p-value for treatment
+  
+  #test each taxon individually:
+  p_values <- apply(otu_table, 2, function(x) {
+    df <- data.frame(x = x, Sample = metadata$Sample)
+    fit <- aov(x ~ Sample, data = df)
+    summary(fit)[[1]][["Pr(>F)"]][1]  # Extract p-value
+  })
+  
+  #Adjust for multiple testing (FDR correction):
+  p_values_adj <- p.adjust(p_values, method = "fdr")
+  
+  #Mark taxa as significant if p < 0.05
+  signif_taxa <- names(p_values_adj[p_values_adj < 0.05])
+
+  #Filter for only the significant taxa
+  ps.genus.filtered <- prune_taxa(taxa_names(ps.genus) %in% signif_taxa, ps.genus)
+  
+  return(ps.genus.filtered)
+}
+
+```
+
+#Write a Function for plotting log2 fold Heatmap for Category
+```{r, eval=FALSE}
+heatmapcategory <- function(ps.genus) {
+  library(phyloseq)
+  library(dplyr)
+  library(tibble)
+  library(RColorBrewer)
+  
+  # Extract OTU (abundance) table and metadata from phyloseq
+  otu_table_df <- as.data.frame(otu_table(ps.genus))
+  meta_df <- data.frame(sample_data(ps.genus))
+  
+  # Add sample and category info to OTU table
+  otu_table_df$Sample <- meta_df$Sample
+  otu_table_df$Category <- meta_df$Category
+  
+  # Aggregate by sample and category (mean abundance per sample)
+  otu_table_avg <- otu_table_df %>%
+    group_by(Category, Sample) %>%
+    summarise(across(where(is.numeric), \(x) mean(x, na.rm = TRUE)), .groups = "drop")
+  
+  # Set Sample as rownames before dropping it from columns
+  otu_table_avg <- otu_table_avg %>%
+    column_to_rownames(var = "Sample")
+  
+  # Remove 'Category' column, then convert to matrix
+  otu_table_matrix <- otu_table_avg[, !colnames(otu_table_avg) %in% "Category"] %>%
+    as.matrix()
+  
+  # Create a phyloseq OTU table object
+  otu_table_avg_phylo <- otu_table(otu_table_matrix, taxa_are_rows = FALSE)
+  
+  # Prepare corresponding sample metadata
+  meta_avg_phylo <- meta_df %>%
+    distinct(Sample, .keep_all = TRUE)
+  rownames(meta_avg_phylo) <- meta_avg_phylo$Sample
+  meta_avg_phylo <- sample_data(meta_avg_phylo)
+  
+  # Match taxa between original and averaged OTU tables
+  common_taxa <- intersect(rownames(tax_table(ps.genus)), colnames(otu_table_matrix))
+  tax_table_filtered <- tax_table(ps.genus)[common_taxa, ]
+  
+  # Create a new phyloseq object
+  ps.genus.avg <- phyloseq(otu_table_avg_phylo, tax_table_filtered, meta_avg_phylo)
+  
+  # Step 2: Apply log2(x + 1)
+  ps.genus.log2 <- transform_sample_counts(ps.genus.avg, function(x) log2(x + 1))
+
+  # Step 3: Convert log2(x + 1) to 10^(log2(x + 1))
+  ps.genus.log2.10 <- transform_sample_counts(ps.genus.log2, function(x) 10^x)
+  
+  # Plot heatmap of top 50 taxa
+  heat.sample <- plot_taxa_heatmap(
+    ps.genus.log2.10,
+    subset.top = 50,
+    VariableA = c("Category"),
+    heatcolors = colorRampPalette(rev(brewer.pal(n = 7, name = "RdYlBu")))(100),
+    transformation = "log10"
+  )
+  
+  return(heat.sample)
+}
+
+
+```
+
+#Plot
+```{r}
+ps.genus.filtered <- ps.filter(ps.genus)
+
+heatmapcategory(ps.genus.filtered)
+
+```
+
+
+#Write a Function for plotting log2 fold Heatmap for Sample
+```{r}
+heatmapsample<-function(ps.genus){
+  # Extract OTU (abundance) table and metadata from phyloseq
+  otu_table_df <- as.data.frame(otu_table(ps.genus))
+  meta_df <- data.frame(sample_data(ps.genus))
+  
+  # Add category information to the OTU table
+  otu_table_df$Sample <- meta_df$Sample
+  otu_table_df$Category <- meta_df$Category
+  
+  # Aggregate by sample (mean abundance per sample)
+  otu_table_avg <- otu_table_df %>%
+    group_by(Category, Sample) %>%
+    summarise(across(where(is.numeric), mean, na.rm = TRUE))
+  
+  # Convert back to matrix and ensure row names are correct
+  otu_table_avg <- otu_table_avg[, !colnames(otu_table_avg) %in% "Category"]
+  otu_table_avg <- column_to_rownames(otu_table_avg, var = "Sample") %>%
+    as.matrix()
+  
+  otu_table_avg_phylo <- otu_table(otu_table_avg, taxa_are_rows = FALSE) 
+  
+  
+  # Create a new sample metadata table
+  meta_avg_phylo <- meta_df %>% distinct(Sample, .keep_all = TRUE)
+  meta_avg_phylo$Category <- meta_avg_phylo$Category
+  rownames(meta_avg_phylo) <- meta_avg_phylo$Sample
+  meta_avg_phylo <- sample_data(meta_avg_phylo)
+  
+  # Ensure tax_table matches the taxa in otu_table_avg_phylo
+  common_taxa <- intersect(rownames(tax_table(ps.genus)), colnames(otu_table_avg_phylo))
+  tax_table_filtered <- tax_table(ps.genus)[common_taxa, ] 
+  
+  # Create a new phyloseq object
+  ps.genus.avg <- phyloseq(otu_table_avg_phylo, tax_table_filtered, meta_avg_phylo)
+  
+  # Step 2: Apply log2(x + 1)
+  ps.genus.log2 <- transform_sample_counts(ps.genus.avg, function(x) log2(x + 1))
+
+  # Step 3: Convert log2(x + 1) to 10^(log2(x + 1))
+  ps.genus.log2.10 <- transform_sample_counts(ps.genus.log2, function(x) 10^x)
+  
+  # Plot heatmap of top 50 taxa
+  heat.sample <- plot_taxa_heatmap(
+    ps.genus.log2.10,
+    subset.top = 50,
+    VariableA = c("Sample"),
+    heatcolors = colorRampPalette(rev(brewer.pal(n = 7, name = "RdYlBu")))(100),
+    transformation = "log10"
+  )
+  }
+```
+
+#Plot
+```{r}
+heatmapsample(ps.genus.filtered)
+```
+
+heatmapsample(ps.genus.filtered)
+
+
+#Ouput the Corresponding(log2 ratio) OTU table
+```{r}
+  # Extract OTU (abundance) table and metadata from phyloseq
+  otu_table_df <- as.data.frame(otu_table(ps.genus.filtered))
+  meta_df <- data.frame(sample_data(ps.genus.filtered))
+  
+  # Add category information to the OTU table
+  otu_table_df$Sample <- meta_df$Sample
+  otu_table_df$Category <- meta_df$Category
+  
+  # Aggregate by sample (mean abundance per sample)
+  otu_table_avg <- otu_table_df %>%
+    group_by(Category, Sample) %>%
+    summarise(across(where(is.numeric), mean, na.rm = TRUE))
+  
+  # Convert back to matrix and ensure row names are correct
+  otu_table_avg <- otu_table_avg[, !colnames(otu_table_avg) %in% "Category"]
+  otu_table_avg <- column_to_rownames(otu_table_avg, var = "Sample") %>%
+    as.matrix()
+  
+  otu_table_avg_phylo <- otu_table(otu_table_avg, taxa_are_rows = FALSE) 
+  
+  
+  # Create a new sample metadata table
+  meta_avg_phylo <- meta_df %>% distinct(Sample, .keep_all = TRUE)
+  meta_avg_phylo$Category <- meta_avg_phylo$Category
+  rownames(meta_avg_phylo) <- meta_avg_phylo$Sample
+  meta_avg_phylo <- sample_data(meta_avg_phylo)
+  
+  # Ensure tax_table matches the taxa in otu_table_avg_phylo
+  common_taxa <- intersect(rownames(tax_table(ps.genus)), colnames(otu_table_avg_phylo))
+  tax_table_filtered <- tax_table(ps.genus)[common_taxa, ] 
+  
+  # Create a new phyloseq object
+  ps.genus.avg <- phyloseq(otu_table_avg_phylo, tax_table_filtered, meta_avg_phylo)
+  
+  # Step 2: Apply log2(x + 1)
+  ps.genus.log2 <- transform_sample_counts(ps.genus.avg, function(x) log2(x + 1))
+  
+  #Write a function to Output the OTU table Corresponding to the Heatmap
+  OutOTU<-function(ps.run, filename = "otu_otuput"){
+  OTU<-otu_table(ps.run) |>as.data.frame()
+  Taxa<-tax_table(ps.run) |>as.data.frame()
+  Taxa$Name<- apply(Taxa[,1:6], 1, function(x) paste(x, collapse = "_"))
+  colnames(OTU)<-Taxa$Name
+  OTU$Total<- rowSums(OTU)
+  return(OTU)
+}
+
+OTU<-OutOTU(ps.genus.log2)
+```
+
+write.csv(OTU, file = paste0("/work/benson/bpeng4/Givaudan/Plot/otu.sample.log2.csv"))

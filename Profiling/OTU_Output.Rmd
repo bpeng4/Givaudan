@@ -1,0 +1,73 @@
+---
+title: "OTU_Output"
+output: html_document
+date: "2025-05-15"
+---
+
+#Phyloseq file Preparation and Standerdize
+```{r setup, include=FALSE}
+rm(list = ls())
+gc()
+suppressMessages({
+  library("tidyverse")
+  library("phyloseq")
+  library("rstatix")
+  library("vegan")
+  library("picante")
+  library("ggpubr")
+  library(vegan)
+  library(dplyr)
+  library(tidyr)
+  library(ggplot2)
+  library(poppr)  # For AMOVA if genetic analysis is needed
+  library(microbiomeutilities)
+  library(viridis)
+  library(patchwork)
+  library(pheatmap)
+  library(RColorBrewer)
+})
+no_of_cores = 16
+setwd("/work/benson/bpeng4/Givaudan/Givaudan_All_16S")
+load("intermediate/Givaudian_ps.rda")
+ls()
+ps
+
+#Remove Fs
+ps <- subset_samples(ps , Category != "FS")
+#Remove Spaces
+# Remove leading/trailing whitespace from all levels in the Category column
+ps@sam_data$Category <- trimws(ps@sam_data$Category)
+
+###Pre-arrangement on  the phyloseq file
+################
+ps.clean <- subset_taxa(ps, Kingdom == "Bacteria") %>%
+  subset_taxa(!is.na(Phylum)) %>%
+  subset_taxa(!Class %in% c("Chloroplast")) %>%
+  subset_taxa(!Family %in% c("Mitochondria"))
+ps.clean
+#ps.clean.re <- transform_sample_counts(ps.clean, function(x) x / sum(x))
+#Filter Out Taxa Exist in At Least 25% samples
+ps.clean.p0 <- filter_taxa(ps.clean, function (x) {sum(x > 0) >= 251}, prune=TRUE)
+ps.clean.p0
+
+#Check Total Reads to find the Thresholds for Rarefication
+OTU<-otu_table(ps.clean.p0) |>as.data.frame()
+OTU$Total<- rowSums(OTU)
+```
+
+#OTU Output
+```{r}
+#Output otu tables
+OutOTU<-function(ps.run, filename = "otu_otuput"){
+  OTU<-otu_table(ps.run) |>as.data.frame()
+  Taxa<-tax_table(ps.run) |>as.data.frame()
+  Taxa$Name<- apply(Taxa[,1:6], 1, function(x) paste(x, collapse = "_"))
+  colnames(OTU)<-Taxa$Name
+  OTU$Total<- rowSums(OTU)
+  return(OTU)
+}
+OTU<-OutOTU(ps.clean.p0)
+write.csv(OTU, file = paste0("/work/benson/bpeng4/Givaudan/Plot/otu.all.csv"))
+```
+
+

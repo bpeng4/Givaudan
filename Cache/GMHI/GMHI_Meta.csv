@@ -1,0 +1,1006 @@
+,SampleNum,SampleName,GMHI,Microbiome,Rep,Sample_Abbr,Sample,Category
+1,1,S13-1-3,2.00587823,S13,3,SBG,Super B-glucan (SBG),Prebiotic fiber
+2,1,S11-1-3,1.695996878,S11,3,SBG,Super B-glucan (SBG),Prebiotic fiber
+3,1,S15-1-2,2.126144765,S15,2,SBG,Super B-glucan (SBG),Prebiotic fiber
+4,1,S4-1-2,2.223868804,S4,2,SBG,Super B-glucan (SBG),Prebiotic fiber
+5,1,S8-1-3,2.915726622,S8,3,SBG,Super B-glucan (SBG),Prebiotic fiber
+6,1,S12-1-2,2.295220282,S12,2,SBG,Super B-glucan (SBG),Prebiotic fiber
+7,1,S12-1-3,1.977926974,S12,3,SBG,Super B-glucan (SBG),Prebiotic fiber
+8,1,S15-1-3,3.322340933,S15,3,SBG,Super B-glucan (SBG),Prebiotic fiber
+9,1,S6-1-2,-0.80686106,S6,2,SBG,Super B-glucan (SBG),Prebiotic fiber
+10,1,S6-1-3,-1.079317635,S6,3,SBG,Super B-glucan (SBG),Prebiotic fiber
+11,1,S14-1-2,0,S14,2,SBG,Super B-glucan (SBG),Prebiotic fiber
+12,1,S14-1-3,0,S14,3,SBG,Super B-glucan (SBG),Prebiotic fiber
+13,1,S10-1-1,3.366187745,S10,1,SBG,Super B-glucan (SBG),Prebiotic fiber
+14,1,S16-1-3,3.688782684,S16,3,SBG,Super B-glucan (SBG),Prebiotic fiber
+15,1,S7-1-3,1.770246221,S7,3,SBG,Super B-glucan (SBG),Prebiotic fiber
+16,1,S7-1-2,1.640561506,S7,2,SBG,Super B-glucan (SBG),Prebiotic fiber
+17,1,S16-1-2,3.727078389,S16,2,SBG,Super B-glucan (SBG),Prebiotic fiber
+18,1,S2-1-2,2.189467379,S2,2,SBG,Super B-glucan (SBG),Prebiotic fiber
+19,1,S8-1-2,3.217035163,S8,2,SBG,Super B-glucan (SBG),Prebiotic fiber
+20,1,S3-1-1,1.076007405,S3,1,SBG,Super B-glucan (SBG),Prebiotic fiber
+21,1,S3-1-2,1.614604991,S3,2,SBG,Super B-glucan (SBG),Prebiotic fiber
+22,1,S3-1-3,1.068033655,S3,3,SBG,Super B-glucan (SBG),Prebiotic fiber
+23,1,S1-1-3,1.222470163,S1,3,SBG,Super B-glucan (SBG),Prebiotic fiber
+24,1,S11-1-2,1.746545579,S11,2,SBG,Super B-glucan (SBG),Prebiotic fiber
+25,1,S5-1-1,-1.909067405,S5,1,SBG,Super B-glucan (SBG),Prebiotic fiber
+26,1,S5-1-2,-1.882213589,S5,2,SBG,Super B-glucan (SBG),Prebiotic fiber
+27,1,S2-1-1,1.581691352,S2,1,SBG,Super B-glucan (SBG),Prebiotic fiber
+28,1,S4-1-1,2.248328621,S4,1,SBG,Super B-glucan (SBG),Prebiotic fiber
+29,1,S13-1-2,0.768009789,S13,2,SBG,Super B-glucan (SBG),Prebiotic fiber
+30,1,S7-1-1,1.658578243,S7,1,SBG,Super B-glucan (SBG),Prebiotic fiber
+31,1,S1-1-1,1.676877372,S1,1,SBG,Super B-glucan (SBG),Prebiotic fiber
+32,1,S15-1-1,3.00158931,S15,1,SBG,Super B-glucan (SBG),Prebiotic fiber
+33,1,S9-1-1,2.099238069,S9,1,SBG,Super B-glucan (SBG),Prebiotic fiber
+34,1,S9-1-2,3.103048993,S9,2,SBG,Super B-glucan (SBG),Prebiotic fiber
+35,1,S9-1-3,2.31270442,S9,3,SBG,Super B-glucan (SBG),Prebiotic fiber
+36,1,S11-1-1,2.314145359,S11,1,SBG,Super B-glucan (SBG),Prebiotic fiber
+37,1,S8-1-1,3.219241305,S8,1,SBG,Super B-glucan (SBG),Prebiotic fiber
+38,1,S14-1-1,0,S14,1,SBG,Super B-glucan (SBG),Prebiotic fiber
+39,1,S2-1-3,2.336882808,S2,3,SBG,Super B-glucan (SBG),Prebiotic fiber
+40,1,S5-1-3,-1.661781521,S5,3,SBG,Super B-glucan (SBG),Prebiotic fiber
+41,1,S13-1-1,-1.214586263,S13,1,SBG,Super B-glucan (SBG),Prebiotic fiber
+42,1,S10-1-2,2.539453662,S10,2,SBG,Super B-glucan (SBG),Prebiotic fiber
+43,1,S10-1-3,3.29689489,S10,3,SBG,Super B-glucan (SBG),Prebiotic fiber
+44,1,S4-1-3,2.682933067,S4,3,SBG,Super B-glucan (SBG),Prebiotic fiber
+45,1,S1-1-2,1.291319401,S1,2,SBG,Super B-glucan (SBG),Prebiotic fiber
+46,1,S12-1-1,2.139401792,S12,1,SBG,Super B-glucan (SBG),Prebiotic fiber
+47,1,S6-1-1,0,S6,1,SBG,Super B-glucan (SBG),Prebiotic fiber
+48,1,S16-1-1,3.77291973,S16,1,SBG,Super B-glucan (SBG),Prebiotic fiber
+49,10,S15-10-1,3.296395682,S15,1,Acerola,Acerola full spectrum,Vitamin + fiber
+50,10,S8-10-2,3.342288812,S8,2,Acerola,Acerola full spectrum,Vitamin + fiber
+51,10,S6-10-2,-0.520490259,S6,2,Acerola,Acerola full spectrum,Vitamin + fiber
+52,10,S9-10-1,1.847201011,S9,1,Acerola,Acerola full spectrum,Vitamin + fiber
+53,10,S8-10-1,3.145607372,S8,1,Acerola,Acerola full spectrum,Vitamin + fiber
+54,10,S13-10-1,2.420076326,S13,1,Acerola,Acerola full spectrum,Vitamin + fiber
+55,10,S5-10-1,-1.980996882,S5,1,Acerola,Acerola full spectrum,Vitamin + fiber
+56,10,S12-10-3,1.263629088,S12,3,Acerola,Acerola full spectrum,Vitamin + fiber
+57,10,S14-10-3,1.307795047,S14,3,Acerola,Acerola full spectrum,Vitamin + fiber
+58,10,S5-10-3,-1.958966369,S5,3,Acerola,Acerola full spectrum,Vitamin + fiber
+59,10,S8-10-3,3.734503608,S8,3,Acerola,Acerola full spectrum,Vitamin + fiber
+60,10,S16-10-2,3.087637311,S16,2,Acerola,Acerola full spectrum,Vitamin + fiber
+61,10,S1-10-1,0.789323917,S1,1,Acerola,Acerola full spectrum,Vitamin + fiber
+62,10,S9-10-2,1.617184638,S9,2,Acerola,Acerola full spectrum,Vitamin + fiber
+63,10,S14-10-2,-1.451391171,S14,2,Acerola,Acerola full spectrum,Vitamin + fiber
+64,10,S3-10-2,2.740285171,S3,2,Acerola,Acerola full spectrum,Vitamin + fiber
+65,10,S3-10-3,2.658834655,S3,3,Acerola,Acerola full spectrum,Vitamin + fiber
+66,10,S11-10-1,1.967191529,S11,1,Acerola,Acerola full spectrum,Vitamin + fiber
+67,10,S9-10-3,2.583469831,S9,3,Acerola,Acerola full spectrum,Vitamin + fiber
+68,10,S11-10-3,2.320779655,S11,3,Acerola,Acerola full spectrum,Vitamin + fiber
+69,10,S5-10-2,-1.537230539,S5,2,Acerola,Acerola full spectrum,Vitamin + fiber
+70,10,S7-10-2,1.659092319,S7,2,Acerola,Acerola full spectrum,Vitamin + fiber
+71,10,S11-10-2,1.1850169,S11,2,Acerola,Acerola full spectrum,Vitamin + fiber
+72,10,S16-10-1,3.772406584,S16,1,Acerola,Acerola full spectrum,Vitamin + fiber
+73,10,S13-10-3,1.958008622,S13,3,Acerola,Acerola full spectrum,Vitamin + fiber
+74,10,S15-10-3,3.621019826,S15,3,Acerola,Acerola full spectrum,Vitamin + fiber
+75,10,S1-10-2,1.639344357,S1,2,Acerola,Acerola full spectrum,Vitamin + fiber
+76,10,S1-10-3,1.501018674,S1,3,Acerola,Acerola full spectrum,Vitamin + fiber
+77,10,S15-10-2,3.569788837,S15,2,Acerola,Acerola full spectrum,Vitamin + fiber
+78,10,S2-10-3,1.443472226,S2,3,Acerola,Acerola full spectrum,Vitamin + fiber
+79,10,S6-10-3,0.502763315,S6,3,Acerola,Acerola full spectrum,Vitamin + fiber
+80,10,S2-10-1,2.043976792,S2,1,Acerola,Acerola full spectrum,Vitamin + fiber
+81,10,S2-10-2,2.490668167,S2,2,Acerola,Acerola full spectrum,Vitamin + fiber
+82,10,S4-10-2,2.597032288,S4,2,Acerola,Acerola full spectrum,Vitamin + fiber
+83,10,S4-10-3,2.801278831,S4,3,Acerola,Acerola full spectrum,Vitamin + fiber
+84,10,S10-10-1,1.419340714,S10,1,Acerola,Acerola full spectrum,Vitamin + fiber
+85,10,S4-10-1,1.03185133,S4,1,Acerola,Acerola full spectrum,Vitamin + fiber
+86,10,S6-10-1,0,S6,1,Acerola,Acerola full spectrum,Vitamin + fiber
+87,10,S12-10-2,1.79994749,S12,2,Acerola,Acerola full spectrum,Vitamin + fiber
+88,10,S10-10-3,1.951729296,S10,3,Acerola,Acerola full spectrum,Vitamin + fiber
+89,10,S14-10-1,1.484184707,S14,1,Acerola,Acerola full spectrum,Vitamin + fiber
+90,10,S10-10-2,0.898782624,S10,2,Acerola,Acerola full spectrum,Vitamin + fiber
+91,10,S12-10-1,2.343920913,S12,1,Acerola,Acerola full spectrum,Vitamin + fiber
+92,10,S7-10-1,2.227482669,S7,1,Acerola,Acerola full spectrum,Vitamin + fiber
+93,10,S16-10-3,3.779658634,S16,3,Acerola,Acerola full spectrum,Vitamin + fiber
+94,10,S7-10-3,1.506907347,S7,3,Acerola,Acerola full spectrum,Vitamin + fiber
+95,10,S13-10-2,2.098146459,S13,2,Acerola,Acerola full spectrum,Vitamin + fiber
+96,10,S3-10-1,2.623802293,S3,1,Acerola,Acerola full spectrum,Vitamin + fiber
+97,11,S12-11-1,2.875324761,S12,1,Acerola_R,Red Acerola 20% Vit C,Vitamin
+98,11,S12-11-2,2.789062666,S12,2,Acerola_R,Red Acerola 20% Vit C,Vitamin
+99,11,S15-11-2,3.581746106,S15,2,Acerola_R,Red Acerola 20% Vit C,Vitamin
+100,11,S10-11-1,3.507360988,S10,1,Acerola_R,Red Acerola 20% Vit C,Vitamin
+101,11,S10-11-2,2.568567275,S10,2,Acerola_R,Red Acerola 20% Vit C,Vitamin
+102,11,S7-11-1,1.39284719,S7,1,Acerola_R,Red Acerola 20% Vit C,Vitamin
+103,11,S7-11-2,2.665680802,S7,2,Acerola_R,Red Acerola 20% Vit C,Vitamin
+104,11,S9-11-1,2.779498125,S9,1,Acerola_R,Red Acerola 20% Vit C,Vitamin
+105,11,S8-11-3,4.644998775,S8,3,Acerola_R,Red Acerola 20% Vit C,Vitamin
+106,11,S2-11-1,3.290827287,S2,1,Acerola_R,Red Acerola 20% Vit C,Vitamin
+107,11,S14-11-1,1.124797719,S14,1,Acerola_R,Red Acerola 20% Vit C,Vitamin
+108,11,S3-11-1,3.912646672,S3,1,Acerola_R,Red Acerola 20% Vit C,Vitamin
+109,11,S3-11-2,3.806863411,S3,2,Acerola_R,Red Acerola 20% Vit C,Vitamin
+110,11,S9-11-2,1.980288903,S9,2,Acerola_R,Red Acerola 20% Vit C,Vitamin
+111,11,S11-11-2,1.840733651,S11,2,Acerola_R,Red Acerola 20% Vit C,Vitamin
+112,11,S2-11-2,1.824707018,S2,2,Acerola_R,Red Acerola 20% Vit C,Vitamin
+113,11,S11-11-1,1.863487334,S11,1,Acerola_R,Red Acerola 20% Vit C,Vitamin
+114,11,S13-11-1,3.922763658,S13,1,Acerola_R,Red Acerola 20% Vit C,Vitamin
+115,11,S16-11-1,3.850951751,S16,1,Acerola_R,Red Acerola 20% Vit C,Vitamin
+116,11,S8-11-2,4.637003835,S8,2,Acerola_R,Red Acerola 20% Vit C,Vitamin
+117,11,S1-11-1,2.104562902,S1,1,Acerola_R,Red Acerola 20% Vit C,Vitamin
+118,11,S1-11-2,3.176357036,S1,2,Acerola_R,Red Acerola 20% Vit C,Vitamin
+119,11,S15-11-1,3.906611131,S15,1,Acerola_R,Red Acerola 20% Vit C,Vitamin
+120,11,S9-11-3,1.82981344,S9,3,Acerola_R,Red Acerola 20% Vit C,Vitamin
+121,11,S8-11-1,4.659570832,S8,1,Acerola_R,Red Acerola 20% Vit C,Vitamin
+122,11,S15-11-3,3.876248614,S15,3,Acerola_R,Red Acerola 20% Vit C,Vitamin
+123,11,S3-11-3,2.721018582,S3,3,Acerola_R,Red Acerola 20% Vit C,Vitamin
+124,11,S12-11-3,2.200049498,S12,3,Acerola_R,Red Acerola 20% Vit C,Vitamin
+125,11,S14-11-2,-0.482109131,S14,2,Acerola_R,Red Acerola 20% Vit C,Vitamin
+126,11,S14-11-3,-1.397819688,S14,3,Acerola_R,Red Acerola 20% Vit C,Vitamin
+127,11,S11-11-3,2.072388383,S11,3,Acerola_R,Red Acerola 20% Vit C,Vitamin
+128,11,S5-11-2,-2.536326866,S5,2,Acerola_R,Red Acerola 20% Vit C,Vitamin
+129,11,S16-11-3,3.10949445,S16,3,Acerola_R,Red Acerola 20% Vit C,Vitamin
+130,11,S5-11-1,-2.583384712,S5,1,Acerola_R,Red Acerola 20% Vit C,Vitamin
+131,11,S13-11-2,3.978065716,S13,2,Acerola_R,Red Acerola 20% Vit C,Vitamin
+132,11,S16-11-2,4.076587332,S16,2,Acerola_R,Red Acerola 20% Vit C,Vitamin
+133,11,S2-11-3,1.941393019,S2,3,Acerola_R,Red Acerola 20% Vit C,Vitamin
+134,11,S4-11-2,2.624385061,S4,2,Acerola_R,Red Acerola 20% Vit C,Vitamin
+135,11,S1-11-3,1.844031319,S1,3,Acerola_R,Red Acerola 20% Vit C,Vitamin
+136,11,S6-11-3,-1.36670902,S6,3,Acerola_R,Red Acerola 20% Vit C,Vitamin
+137,11,S6-11-2,-0.994529619,S6,2,Acerola_R,Red Acerola 20% Vit C,Vitamin
+138,11,S5-11-3,-2.23461062,S5,3,Acerola_R,Red Acerola 20% Vit C,Vitamin
+139,11,S7-11-3,1.522940218,S7,3,Acerola_R,Red Acerola 20% Vit C,Vitamin
+140,11,S10-11-3,2.438668466,S10,3,Acerola_R,Red Acerola 20% Vit C,Vitamin
+141,11,S6-11-1,-1.403340359,S6,1,Acerola_R,Red Acerola 20% Vit C,Vitamin
+142,11,S13-11-3,3.558713319,S13,3,Acerola_R,Red Acerola 20% Vit C,Vitamin
+143,11,S4-11-3,3.728034323,S4,3,Acerola_R,Red Acerola 20% Vit C,Vitamin
+144,11,S4-11-1,3.596931503,S4,1,Acerola_R,Red Acerola 20% Vit C,Vitamin
+145,12,S15-12-2,3.900384738,S15,2,Acerola_G,Green Acerola 34% Vit C,Vitamin
+146,12,S14-12-3,0,S14,3,Acerola_G,Green Acerola 34% Vit C,Vitamin
+147,12,S6-12-1,-1.537912736,S6,1,Acerola_G,Green Acerola 34% Vit C,Vitamin
+148,12,S2-12-1,1.291746837,S2,1,Acerola_G,Green Acerola 34% Vit C,Vitamin
+149,12,S2-12-2,2.891388973,S2,2,Acerola_G,Green Acerola 34% Vit C,Vitamin
+150,12,S4-12-2,2.068613677,S4,2,Acerola_G,Green Acerola 34% Vit C,Vitamin
+151,12,S9-12-1,1.750034446,S9,1,Acerola_G,Green Acerola 34% Vit C,Vitamin
+152,12,S9-12-2,1.905762211,S9,2,Acerola_G,Green Acerola 34% Vit C,Vitamin
+153,12,S1-12-3,1.08648791,S1,3,Acerola_G,Green Acerola 34% Vit C,Vitamin
+154,12,S3-12-3,3.278929885,S3,3,Acerola_G,Green Acerola 34% Vit C,Vitamin
+155,12,S4-12-3,2.878188232,S4,3,Acerola_G,Green Acerola 34% Vit C,Vitamin
+156,12,S10-12-3,3.200075979,S10,3,Acerola_G,Green Acerola 34% Vit C,Vitamin
+157,12,S10-12-1,1.573421854,S10,1,Acerola_G,Green Acerola 34% Vit C,Vitamin
+158,12,S2-12-3,0.928188846,S2,3,Acerola_G,Green Acerola 34% Vit C,Vitamin
+159,12,S1-12-2,1.171967148,S1,2,Acerola_G,Green Acerola 34% Vit C,Vitamin
+160,12,S11-12-3,1.505226909,S11,3,Acerola_G,Green Acerola 34% Vit C,Vitamin
+161,12,S8-12-2,4.127068283,S8,2,Acerola_G,Green Acerola 34% Vit C,Vitamin
+162,12,S1-12-1,2.023084408,S1,1,Acerola_G,Green Acerola 34% Vit C,Vitamin
+163,12,S6-12-2,-1.511466234,S6,2,Acerola_G,Green Acerola 34% Vit C,Vitamin
+164,12,S7-12-1,1.531464368,S7,1,Acerola_G,Green Acerola 34% Vit C,Vitamin
+165,12,S7-12-3,1.143271239,S7,3,Acerola_G,Green Acerola 34% Vit C,Vitamin
+166,12,S15-12-3,3.601093684,S15,3,Acerola_G,Green Acerola 34% Vit C,Vitamin
+167,12,S14-12-1,0.636092102,S14,1,Acerola_G,Green Acerola 34% Vit C,Vitamin
+168,12,S11-12-2,2.047704914,S11,2,Acerola_G,Green Acerola 34% Vit C,Vitamin
+169,12,S5-12-1,-1.933065865,S5,1,Acerola_G,Green Acerola 34% Vit C,Vitamin
+170,12,S5-12-2,-2.228538911,S5,2,Acerola_G,Green Acerola 34% Vit C,Vitamin
+171,12,S11-12-1,1.502514736,S11,1,Acerola_G,Green Acerola 34% Vit C,Vitamin
+172,12,S13-12-1,2.349516656,S13,1,Acerola_G,Green Acerola 34% Vit C,Vitamin
+173,12,S13-12-2,2.880561975,S13,2,Acerola_G,Green Acerola 34% Vit C,Vitamin
+174,12,S16-12-2,3.826878635,S16,2,Acerola_G,Green Acerola 34% Vit C,Vitamin
+175,12,S16-12-3,2.423861621,S16,3,Acerola_G,Green Acerola 34% Vit C,Vitamin
+176,12,S4-12-1,2.642993931,S4,1,Acerola_G,Green Acerola 34% Vit C,Vitamin
+177,12,S12-12-2,1.721318193,S12,2,Acerola_G,Green Acerola 34% Vit C,Vitamin
+178,12,S12-12-3,2.556887911,S12,3,Acerola_G,Green Acerola 34% Vit C,Vitamin
+179,12,S8-12-3,4.059626911,S8,3,Acerola_G,Green Acerola 34% Vit C,Vitamin
+180,12,S15-12-1,3.898688408,S15,1,Acerola_G,Green Acerola 34% Vit C,Vitamin
+181,12,S6-12-3,-1.417370766,S6,3,Acerola_G,Green Acerola 34% Vit C,Vitamin
+182,12,S8-12-1,4.088737584,S8,1,Acerola_G,Green Acerola 34% Vit C,Vitamin
+183,12,S14-12-2,0.353821707,S14,2,Acerola_G,Green Acerola 34% Vit C,Vitamin
+184,12,S3-12-2,3.410658802,S3,2,Acerola_G,Green Acerola 34% Vit C,Vitamin
+185,12,S9-12-3,1.80535008,S9,3,Acerola_G,Green Acerola 34% Vit C,Vitamin
+186,12,S16-12-1,3.978973978,S16,1,Acerola_G,Green Acerola 34% Vit C,Vitamin
+187,12,S10-12-2,2.05798617,S10,2,Acerola_G,Green Acerola 34% Vit C,Vitamin
+188,12,S13-12-3,2.836375469,S13,3,Acerola_G,Green Acerola 34% Vit C,Vitamin
+189,12,S12-12-1,1.735619405,S12,1,Acerola_G,Green Acerola 34% Vit C,Vitamin
+190,12,S3-12-1,2.300765566,S3,1,Acerola_G,Green Acerola 34% Vit C,Vitamin
+191,12,S5-12-3,-2.270652199,S5,3,Acerola_G,Green Acerola 34% Vit C,Vitamin
+192,13,S10-13-1,3.355978981,S10,1,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+193,13,S7-13-2,1.20543818,S7,2,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+194,13,S15-13-2,3.024114422,S15,2,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+195,13,S9-13-2,1.916371473,S9,2,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+196,13,S3-13-3,3.528701821,S3,3,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+197,13,S8-13-1,4.324387171,S8,1,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+198,13,S14-13-2,0,S14,2,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+199,13,S15-13-3,2.708546352,S15,3,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+200,13,S6-13-1,-1.421680673,S6,1,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+201,13,S8-13-3,4.30705538,S8,3,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+202,13,S6-13-2,0,S6,2,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+203,13,S1-13-1,1.347714698,S1,1,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+204,13,S9-13-1,1.880833489,S9,1,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+205,13,S7-13-1,1.124272631,S7,1,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+206,13,S9-13-3,2.884275598,S9,3,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+207,13,S8-13-2,3.524124899,S8,2,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+208,13,S6-13-3,-0.839820687,S6,3,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+209,13,S12-13-3,2.633490175,S12,3,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+210,13,S14-13-3,-0.484510244,S14,3,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+211,13,S14-13-1,-0.103334664,S14,1,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+212,13,S5-13-1,-2.253802018,S5,1,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+213,13,S5-13-2,-2.452839233,S5,2,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+214,13,S13-13-3,2.628951803,S13,3,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+215,13,S5-13-3,-2.493118055,S5,3,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+216,13,S7-13-3,1.596236915,S7,3,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+217,13,S4-13-3,2.928480537,S4,3,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+218,13,S16-13-2,4.027759183,S16,2,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+219,13,S16-13-3,2.966861468,S16,3,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+220,13,S15-13-1,3.837732084,S15,1,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+221,13,S1-13-3,2.646898264,S1,3,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+222,13,S2-13-2,2.068629756,S2,2,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+223,13,S12-13-2,2.424986637,S12,2,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+224,13,S11-13-1,1.545153122,S11,1,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+225,13,S2-13-1,2.998567424,S2,1,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+226,13,S13-13-2,2.638124895,S13,2,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+227,13,S11-13-2,1.357269516,S11,2,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+228,13,S2-13-3,1.954078641,S2,3,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+229,13,S4-13-2,1.96541532,S4,2,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+230,13,S16-13-1,3.073713036,S16,1,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+231,13,S3-13-2,3.309151563,S3,2,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+232,13,S10-13-3,3.107746402,S10,3,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+233,13,S12-13-1,2.521338512,S12,1,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+234,13,S3-13-1,2.320337436,S3,1,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+235,13,S1-13-2,2.006971047,S1,2,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+236,13,S4-13-1,1.65779504,S4,1,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+237,13,S10-13-2,1.679635251,S10,2,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+238,13,S13-13-1,2.640288912,S13,1,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+239,13,S11-13-3,1.463392939,S11,3,Acerola_R&G,Acerola red 20% vit C& acerola green vit C 34%,Vitamin (Synergistic)
+240,14,S14-14-1,1.232744849,S14,1,VitC,Ascorbic acid (Vit c),Vitamin
+241,14,S7-14-3,0.792420968,S7,3,VitC,Ascorbic acid (Vit c),Vitamin
+242,14,S8-14-2,3.25373395,S8,2,VitC,Ascorbic acid (Vit c),Vitamin
+243,14,S5-14-1,-1.329596577,S5,1,VitC,Ascorbic acid (Vit c),Vitamin
+244,14,S6-14-3,-0.774915686,S6,3,VitC,Ascorbic acid (Vit c),Vitamin
+245,14,S14-14-2,-1.358621704,S14,2,VitC,Ascorbic acid (Vit c),Vitamin
+246,14,S4-14-2,2.122967073,S4,2,VitC,Ascorbic acid (Vit c),Vitamin
+247,14,S8-14-1,3.394406618,S8,1,VitC,Ascorbic acid (Vit c),Vitamin
+248,14,S13-14-3,2.581447044,S13,3,VitC,Ascorbic acid (Vit c),Vitamin
+249,14,S2-14-3,2.606705587,S2,3,VitC,Ascorbic acid (Vit c),Vitamin
+250,14,S1-14-3,1.037157344,S1,3,VitC,Ascorbic acid (Vit c),Vitamin
+251,14,S15-14-2,2.174716606,S15,2,VitC,Ascorbic acid (Vit c),Vitamin
+252,14,S10-14-3,2.657016769,S10,3,VitC,Ascorbic acid (Vit c),Vitamin
+253,14,S11-14-3,2.354804321,S11,3,VitC,Ascorbic acid (Vit c),Vitamin
+254,14,S3-14-2,3.03945141,S3,2,VitC,Ascorbic acid (Vit c),Vitamin
+255,14,S16-14-1,2.750941717,S16,1,VitC,Ascorbic acid (Vit c),Vitamin
+256,14,S11-14-2,2.767016909,S11,2,VitC,Ascorbic acid (Vit c),Vitamin
+257,14,S6-14-2,-0.292639453,S6,2,VitC,Ascorbic acid (Vit c),Vitamin
+258,14,S7-14-2,1.893339815,S7,2,VitC,Ascorbic acid (Vit c),Vitamin
+259,14,S2-14-1,2.288808331,S2,1,VitC,Ascorbic acid (Vit c),Vitamin
+260,14,S10-14-2,1.62407283,S10,2,VitC,Ascorbic acid (Vit c),Vitamin
+261,14,S9-14-1,2.829838476,S9,1,VitC,Ascorbic acid (Vit c),Vitamin
+262,14,S9-14-3,2.606980255,S9,3,VitC,Ascorbic acid (Vit c),Vitamin
+263,14,S10-14-1,2.392234786,S10,1,VitC,Ascorbic acid (Vit c),Vitamin
+264,14,S12-14-1,1.830434795,S12,1,VitC,Ascorbic acid (Vit c),Vitamin
+265,14,S12-14-2,1.304605164,S12,2,VitC,Ascorbic acid (Vit c),Vitamin
+266,14,S8-14-3,3.528127433,S8,3,VitC,Ascorbic acid (Vit c),Vitamin
+267,14,S6-14-1,-1.162688641,S6,1,VitC,Ascorbic acid (Vit c),Vitamin
+268,14,S11-14-1,2.002707898,S11,1,VitC,Ascorbic acid (Vit c),Vitamin
+269,14,S16-14-2,3.529228549,S16,2,VitC,Ascorbic acid (Vit c),Vitamin
+270,14,S5-14-2,-2.161920645,S5,2,VitC,Ascorbic acid (Vit c),Vitamin
+271,14,S4-14-1,2.524392138,S4,1,VitC,Ascorbic acid (Vit c),Vitamin
+272,14,S14-14-3,-1.012189636,S14,3,VitC,Ascorbic acid (Vit c),Vitamin
+273,14,S13-14-1,1.238360894,S13,1,VitC,Ascorbic acid (Vit c),Vitamin
+274,14,S4-14-3,2.481925308,S4,3,VitC,Ascorbic acid (Vit c),Vitamin
+275,14,S9-14-2,2.540638337,S9,2,VitC,Ascorbic acid (Vit c),Vitamin
+276,14,S1-14-1,1.269069373,S1,1,VitC,Ascorbic acid (Vit c),Vitamin
+277,14,S1-14-2,0.957389271,S1,2,VitC,Ascorbic acid (Vit c),Vitamin
+278,14,S3-14-1,1.835003652,S3,1,VitC,Ascorbic acid (Vit c),Vitamin
+279,14,S15-14-1,3.470124365,S15,1,VitC,Ascorbic acid (Vit c),Vitamin
+280,14,S12-14-3,2.121658229,S12,3,VitC,Ascorbic acid (Vit c),Vitamin
+281,14,S15-14-3,2.884796552,S15,3,VitC,Ascorbic acid (Vit c),Vitamin
+282,14,S3-14-3,3.100480653,S3,3,VitC,Ascorbic acid (Vit c),Vitamin
+283,14,S13-14-2,1.881319411,S13,2,VitC,Ascorbic acid (Vit c),Vitamin
+284,14,S5-14-3,-2.219909078,S5,3,VitC,Ascorbic acid (Vit c),Vitamin
+285,14,S7-14-1,0.956553628,S7,1,VitC,Ascorbic acid (Vit c),Vitamin
+286,14,S16-14-3,3.513605656,S16,3,VitC,Ascorbic acid (Vit c),Vitamin
+287,14,S2-14-2,2.001198925,S2,2,VitC,Ascorbic acid (Vit c),Vitamin
+288,15,S7-15-1,0.857258489,S7,1,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+289,15,S13-15-1,2.514359471,S13,1,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+290,15,S13-15-2,2.34997543,S13,2,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+291,15,S10-15-2,2.147203337,S10,2,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+292,15,S6-15-2,-0.72291726,S6,2,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+293,15,S1-15-1,2.231108947,S1,1,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+294,15,S12-15-1,1.172644355,S12,1,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+295,15,S1-15-2,1.822233599,S1,2,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+296,15,S16-15-3,2.813223533,S16,3,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+297,15,S6-15-1,-1.457825413,S6,1,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+298,15,S12-15-3,2.111646874,S12,3,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+299,15,S15-15-2,4.017569602,S15,2,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+300,15,S14-15-2,0.301397946,S14,2,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+301,15,S8-15-2,4.302541631,S8,2,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+302,15,S8-15-3,4.316260057,S8,3,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+303,15,S2-15-3,1.923675465,S2,3,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+304,15,S10-15-3,1.279577586,S10,3,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+305,15,S14-15-1,0.150973125,S14,1,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+306,15,S15-15-1,2.512928079,S15,1,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+307,15,S9-15-1,1.77011207,S9,1,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+308,15,S12-15-2,2.02124757,S12,2,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+309,15,S3-15-3,3.371242133,S3,3,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+310,15,S2-15-2,1.977119334,S2,2,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+311,15,S6-15-3,-0.621662972,S6,3,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+312,15,S5-15-2,-2.49779952,S5,2,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+313,15,S5-15-3,-2.224151163,S5,3,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+314,15,S7-15-3,0.931673987,S7,3,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+315,15,S5-15-1,-2.496759394,S5,1,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+316,15,S4-15-3,3.048100988,S4,3,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+317,15,S16-15-1,3.234993929,S16,1,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+318,15,S9-15-2,1.577328076,S9,2,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+319,15,S4-15-2,3.258284577,S4,2,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+320,15,S3-15-1,3.624105151,S3,1,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+321,15,S3-15-2,2.302156351,S3,2,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+322,15,S1-15-3,3.122997184,S1,3,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+323,15,S8-15-1,4.279856733,S8,1,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+324,15,S2-15-1,3.132717687,S2,1,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+325,15,S11-15-1,1.687451649,S11,1,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+326,15,S11-15-2,1.280175029,S11,2,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+327,15,S11-15-3,1.515738012,S11,3,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+328,15,S7-15-2,1.452652486,S7,2,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+329,15,S16-15-2,3.967093109,S16,2,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+330,15,S13-15-3,2.955182353,S13,3,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+331,15,S14-15-3,1.260214262,S14,3,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+332,15,S9-15-3,1.840586906,S9,3,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+333,15,S4-15-1,2.011431497,S4,1,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+334,15,S15-15-3,2.6824773,S15,3,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+335,15,S10-15-1,2.03157807,S10,1,Carrot&Acerola_G,Carrot juice + Green Acerola,Vitamin (Synergistic effect)
+336,16,S7-16-2,3.134177501,S7,2,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+337,16,S9-16-1,3.089533606,S9,1,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+338,16,S13-16-2,2.544396562,S13,2,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+339,16,S13-16-3,1.883974221,S13,3,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+340,16,S16-16-3,3.394808539,S16,3,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+341,16,S9-16-2,3.027734254,S9,2,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+342,16,S5-16-3,-2.172313219,S5,3,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+343,16,S7-16-1,2.851729923,S7,1,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+344,16,S6-16-3,-0.637384193,S6,3,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+345,16,S5-16-1,-2.187910761,S5,1,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+346,16,S8-16-2,4.189348251,S8,2,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+347,16,S4-16-2,3.797133501,S4,2,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+348,16,S4-16-1,2.772304948,S4,1,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+349,16,S6-16-2,-0.683338446,S6,2,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+350,16,S12-16-1,1.329308909,S12,1,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+351,16,S8-16-1,4.224878458,S8,1,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+352,16,S9-16-3,3.473504598,S9,3,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+353,16,S12-16-3,1.970882221,S12,3,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+354,16,S11-16-1,2.102188383,S11,1,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+355,16,S2-16-1,2.624259968,S2,1,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+356,16,S15-16-3,1.671938744,S15,3,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+357,16,S14-16-2,-0.648443162,S14,2,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+358,16,S10-16-1,3.874508441,S10,1,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+359,16,S8-16-3,4.122698528,S8,3,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+360,16,S14-16-1,-0.102358432,S14,1,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+361,16,S6-16-1,-0.596499382,S6,1,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+362,16,S1-16-1,1.870236073,S1,1,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+363,16,S3-16-1,2.716275483,S3,1,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+364,16,S15-16-2,3.101952863,S15,2,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+365,16,S12-16-2,1.815179663,S12,2,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+366,16,S3-16-3,4.024275999,S3,3,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+367,16,S1-16-3,2.127409681,S1,3,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+368,16,S5-16-2,-2.153499643,S5,2,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+369,16,S4-16-3,2.483356813,S4,3,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+370,16,S2-16-3,2.939217186,S2,3,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+371,16,S11-16-2,2.107376298,S11,2,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+372,16,S10-16-3,3.842767535,S10,3,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+373,16,S16-16-2,3.171269057,S16,2,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+374,16,S13-16-1,1.859633348,S13,1,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+375,16,S10-16-2,2.708376659,S10,2,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+376,16,S16-16-1,3.189073847,S16,1,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+377,16,S3-16-2,4.058084448,S3,2,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+378,16,S2-16-2,2.791762053,S2,2,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+379,16,S15-16-1,2.369717643,S15,1,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+380,16,S1-16-2,2.447725012,S1,2,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+381,16,S11-16-3,2.252692598,S11,3,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+382,16,S14-16-3,0.04916174,S14,3,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+383,16,S7-16-3,3.157247708,S7,3,Carrot-Vit A,Carrot juice pro vit A,Vitamin 
+384,17,S12-17-2,0.517522336,S12,2,Svetol,Svetol,Polyphenols
+385,17,S3-17-3,1.301990402,S3,3,Svetol,Svetol,Polyphenols
+386,17,S7-17-1,1.312193833,S7,1,Svetol,Svetol,Polyphenols
+387,17,S12-17-3,0.500450173,S12,3,Svetol,Svetol,Polyphenols
+388,17,S5-17-2,-0.646624718,S5,2,Svetol,Svetol,Polyphenols
+389,17,S13-17-1,1.869459601,S13,1,Svetol,Svetol,Polyphenols
+390,17,S9-17-2,2.008878678,S9,2,Svetol,Svetol,Polyphenols
+391,17,S7-17-2,2.027166491,S7,2,Svetol,Svetol,Polyphenols
+392,17,S7-17-3,1.812597564,S7,3,Svetol,Svetol,Polyphenols
+393,17,S1-17-1,0.162776983,S1,1,Svetol,Svetol,Polyphenols
+394,17,S16-17-3,3.654656056,S16,3,Svetol,Svetol,Polyphenols
+395,17,S5-17-3,-1.45800288,S5,3,Svetol,Svetol,Polyphenols
+396,17,S14-17-2,-1.068973614,S14,2,Svetol,Svetol,Polyphenols
+397,17,S14-17-3,-1.343364682,S14,3,Svetol,Svetol,Polyphenols
+398,17,S11-17-3,1.126999649,S11,3,Svetol,Svetol,Polyphenols
+399,17,S11-17-2,1.30579469,S11,2,Svetol,Svetol,Polyphenols
+400,17,S8-17-3,3.391988164,S8,3,Svetol,Svetol,Polyphenols
+401,17,S15-17-1,1.741530438,S15,1,Svetol,Svetol,Polyphenols
+402,17,S2-17-2,0.447697352,S2,2,Svetol,Svetol,Polyphenols
+403,17,S4-17-3,1.325059794,S4,3,Svetol,Svetol,Polyphenols
+404,17,S16-17-1,3.344254952,S16,1,Svetol,Svetol,Polyphenols
+405,17,S2-17-1,0.043193963,S2,1,Svetol,Svetol,Polyphenols
+406,17,S13-17-3,2.299420037,S13,3,Svetol,Svetol,Polyphenols
+407,17,S3-17-1,3.042031216,S3,1,Svetol,Svetol,Polyphenols
+408,17,S3-17-2,3.139707517,S3,2,Svetol,Svetol,Polyphenols
+409,17,S10-17-3,2.5790672,S10,3,Svetol,Svetol,Polyphenols
+410,17,S4-17-1,1.542119033,S4,1,Svetol,Svetol,Polyphenols
+411,17,S5-17-1,-1.687767622,S5,1,Svetol,Svetol,Polyphenols
+412,17,S11-17-1,0.889330374,S11,1,Svetol,Svetol,Polyphenols
+413,17,S14-17-1,-1.000695387,S14,1,Svetol,Svetol,Polyphenols
+414,17,S9-17-3,1.59890079,S9,3,Svetol,Svetol,Polyphenols
+415,17,S4-17-2,1.406611796,S4,2,Svetol,Svetol,Polyphenols
+416,17,S10-17-1,2.242877101,S10,1,Svetol,Svetol,Polyphenols
+417,17,S1-17-2,0.848898704,S1,2,Svetol,Svetol,Polyphenols
+418,17,S6-17-2,-1.802721923,S6,2,Svetol,Svetol,Polyphenols
+419,17,S13-17-2,2.541999117,S13,2,Svetol,Svetol,Polyphenols
+420,17,S6-17-3,-1.712331382,S6,3,Svetol,Svetol,Polyphenols
+421,17,S15-17-2,1.463072954,S15,2,Svetol,Svetol,Polyphenols
+422,17,S15-17-3,2.093768983,S15,3,Svetol,Svetol,Polyphenols
+423,17,S12-17-1,0.698439386,S12,1,Svetol,Svetol,Polyphenols
+424,17,S8-17-2,3.325596492,S8,2,Svetol,Svetol,Polyphenols
+425,17,S8-17-1,2.263641484,S8,1,Svetol,Svetol,Polyphenols
+426,17,S2-17-3,1.080789999,S2,3,Svetol,Svetol,Polyphenols
+427,17,S1-17-3,1.014435262,S1,3,Svetol,Svetol,Polyphenols
+428,17,S16-17-2,4.005304429,S16,2,Svetol,Svetol,Polyphenols
+429,17,S6-17-1,-1.00669195,S6,1,Svetol,Svetol,Polyphenols
+430,17,S10-17-2,2.822380304,S10,2,Svetol,Svetol,Polyphenols
+431,17,S9-17-1,3.183046221,S9,1,Svetol,Svetol,Polyphenols
+432,18,S5-18-3,-0.583906846,S5,3,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+433,18,S7-18-1,3.118759381,S7,1,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+434,18,S7-18-2,3.047250143,S7,2,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+435,18,S8-18-2,2.676261253,S8,2,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+436,18,S14-18-1,1.047231461,S14,1,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+437,18,S15-18-3,1.828575711,S15,3,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+438,18,S12-18-1,1.52463469,S12,1,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+439,18,S3-18-1,3.070842253,S3,1,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+440,18,S15-18-1,2.322456356,S15,1,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+441,18,S8-18-1,2.822845083,S8,1,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+442,18,S4-18-1,1.869570311,S4,1,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+443,18,S14-18-2,0.571372694,S14,2,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+444,18,S4-18-2,2.010112615,S4,2,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+445,18,S15-18-2,2.198262092,S15,2,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+446,18,S2-18-1,2.484444938,S2,1,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+447,18,S6-18-1,0.971553487,S6,1,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+448,18,S6-18-2,0,S6,2,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+449,18,S9-18-2,3.820697467,S9,2,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+450,18,S6-18-3,0,S6,3,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+451,18,S3-18-2,3.115461814,S3,2,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+452,18,S3-18-3,3.379097373,S3,3,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+453,18,S8-18-3,3.139387978,S8,3,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+454,18,S2-18-2,1.337078311,S2,2,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+455,18,S2-18-3,1.650936569,S2,3,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+456,18,S11-18-1,2.110541713,S11,1,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+457,18,S11-18-2,2.166000228,S11,2,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+458,18,S9-18-1,3.519836301,S9,1,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+459,18,S13-18-2,0.49795806,S13,2,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+460,18,S10-18-1,3.314350342,S10,1,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+461,18,S13-18-3,1.610068071,S13,3,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+462,18,S9-18-3,3.821221282,S9,3,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+463,18,S12-18-3,1.496711998,S12,3,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+464,18,S5-18-2,-0.731591767,S5,2,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+465,18,S1-18-1,1.222412527,S1,1,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+466,18,S1-18-3,0.810556488,S1,3,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+467,18,S11-18-3,0.190503567,S11,3,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+468,18,S7-18-3,2.97245477,S7,3,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+469,18,S14-18-3,0,S14,3,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+470,18,S16-18-2,3.948423851,S16,2,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+471,18,S4-18-3,1.85907379,S4,3,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+472,18,S13-18-1,0.824014133,S13,1,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+473,18,S16-18-1,4.021824002,S16,1,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+474,18,S10-18-2,3.190594482,S10,2,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+475,18,S10-18-3,3.163294944,S10,3,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+476,18,S16-18-3,4.198676831,S16,3,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+477,18,S5-18-1,-0.802757085,S5,1,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+478,18,S12-18-2,1.62035815,S12,2,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+479,18,S1-18-2,1.830526398,S1,2,Aronox_PE,Aronox PE 40% polyphenols,Polyphenols
+480,19,S2-19-1,2.133932468,S2,1,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+481,19,S15-19-1,2.484984532,S15,1,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+482,19,S9-19-1,2.443714361,S9,1,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+483,19,S16-19-1,4.140463212,S16,1,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+484,19,S7-19-2,2.044365024,S7,2,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+485,19,S8-19-3,3.727624874,S8,3,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+486,19,S12-19-3,1.914779458,S12,3,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+487,19,S2-19-3,3.029853926,S2,3,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+488,19,S2-19-2,2.928079977,S2,2,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+489,19,S9-19-2,3.449991921,S9,2,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+490,19,S10-19-1,4.108709742,S10,1,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+491,19,S11-19-1,2.943900844,S11,1,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+492,19,S16-19-3,4.107597127,S16,3,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+493,19,S3-19-3,3.239740083,S3,3,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+494,19,S6-19-3,-0.642047261,S6,3,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+495,19,S10-19-3,3.997684392,S10,3,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+496,19,S15-19-3,2.91010418,S15,3,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+497,19,S12-19-2,2.272563259,S12,2,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+498,19,S5-19-1,-1.930204982,S5,1,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+499,19,S6-19-1,0,S6,1,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+500,19,S7-19-1,2.472187095,S7,1,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+501,19,S11-19-3,2.875086262,S11,3,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+502,19,S7-19-3,2.127752215,S7,3,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+503,19,S8-19-2,4.311802507,S8,2,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+504,19,S13-19-2,3.093187207,S13,2,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+505,19,S9-19-3,1.907821635,S9,3,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+506,19,S6-19-2,-1.132024237,S6,2,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+507,19,S13-19-1,2.808310558,S13,1,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+508,19,S15-19-2,2.884156062,S15,2,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+509,19,S12-19-1,3.051116852,S12,1,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+510,19,S1-19-2,3.171302548,S1,2,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+511,19,S14-19-3,0.917332371,S14,3,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+512,19,S5-19-2,-1.393007321,S5,2,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+513,19,S14-19-1,1.410331046,S14,1,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+514,19,S4-19-1,2.521055546,S4,1,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+515,19,S4-19-2,2.823009024,S4,2,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+516,19,S4-19-3,3.19363475,S4,3,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+517,19,S8-19-1,4.320846308,S8,1,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+518,19,S13-19-3,3.078297358,S13,3,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+519,19,S16-19-2,4.066917646,S16,2,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+520,19,S3-19-1,3.196816666,S3,1,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+521,19,S1-19-3,2.082542166,S1,3,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+522,19,S5-19-3,-1.64433448,S5,3,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+523,19,S14-19-2,0.840558458,S14,2,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+524,19,S1-19-1,2.135880414,S1,1,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+525,19,S10-19-2,2.940638927,S10,2,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+526,19,S3-19-2,3.13122254,S3,2,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+527,19,S11-19-2,3.06323272,S11,2,Acerola_G&OBG-28%,Acerola green + OBG 28%,Synergistic effect (Fiber)
+528,2,S14-2-1,-0.740762431,S14,1,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+529,2,S14-2-2,1.098313618,S14,2,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+530,2,S4-2-1,2.649908989,S4,1,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+531,2,S13-2-1,2.2465524,S13,1,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+532,2,S10-2-3,3.451746465,S10,3,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+533,2,S16-2-3,3.685028727,S16,3,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+534,2,S6-2-1,0,S6,1,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+535,2,S3-2-1,2.698154207,S3,1,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+536,2,S12-2-3,2.10918168,S12,3,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+537,2,S1-2-1,1.384510265,S1,1,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+538,2,S5-2-1,-1.699387666,S5,1,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+539,2,S15-2-2,2.619502811,S15,2,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+540,2,S8-2-1,3.287688389,S8,1,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+541,2,S2-2-1,1.641279061,S2,1,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+542,2,S12-2-1,3.203411387,S12,1,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+543,2,S9-2-1,3.017811707,S9,1,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+544,2,S7-2-3,0.663253112,S7,3,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+545,2,S5-2-3,-1.907252572,S5,3,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+546,2,S11-2-2,1.556954938,S11,2,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+547,2,S7-2-1,0.711998172,S7,1,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+548,2,S9-2-3,1.283677889,S9,3,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+549,2,S15-2-1,2.103404302,S15,1,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+550,2,S15-2-3,2.322862622,S15,3,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+551,2,S3-2-3,3.96760542,S3,3,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+552,2,S8-2-2,3.269755677,S8,2,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+553,2,S2-2-2,2.075554421,S2,2,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+554,2,S2-2-3,1.679256837,S2,3,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+555,2,S11-2-1,2.149087361,S11,1,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+556,2,S13-2-3,2.239499226,S13,3,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+557,2,S7-2-2,1.339382656,S7,2,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+558,2,S13-2-2,2.559187512,S13,2,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+559,2,S16-2-1,3.917473857,S16,1,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+560,2,S3-2-2,4.049000749,S3,2,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+561,2,S9-2-2,2.871675615,S9,2,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+562,2,S6-2-2,-1.12098681,S6,2,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+563,2,S6-2-3,0,S6,3,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+564,2,S1-2-3,1.810372121,S1,3,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+565,2,S1-2-2,1.551848357,S1,2,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+566,2,S8-2-3,3.290247491,S8,3,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+567,2,S5-2-2,-1.728016763,S5,2,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+568,2,S4-2-3,1.947715116,S4,3,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+569,2,S16-2-2,3.186906438,S16,2,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+570,2,S4-2-2,2.862365222,S4,2,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+571,2,S14-2-3,-0.204629679,S14,3,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+572,2,S11-2-3,1.448513397,S11,3,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+573,2,S10-2-2,3.492180476,S10,2,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+574,2,S10-2-1,2.384584884,S10,1,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+575,2,S12-2-2,1.819878916,S12,2,OBG-70%,Oat B-glucans (OBG 70% (Low m.wt))- Garuda,Prebiotic fiber
+576,20,S14-20-2,0,S14,2,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+577,20,S14-20-3,0.215691738,S14,3,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+578,20,S13-20-1,2.723384008,S13,1,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+579,20,S14-20-1,1.499494529,S14,1,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+580,20,S10-20-1,2.584993744,S10,1,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+581,20,S16-20-2,4.299783028,S16,2,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+582,20,S10-20-2,2.460062532,S10,2,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+583,20,S16-20-1,3.499892641,S16,1,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+584,20,S8-20-3,4.297615151,S8,3,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+585,20,S9-20-3,2.018612036,S9,3,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+586,20,S5-20-1,-2.26729933,S5,1,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+587,20,S2-20-1,1.619721854,S2,1,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+588,20,S11-20-3,1.550580023,S11,3,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+589,20,S7-20-1,-0.162882179,S7,1,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+590,20,S9-20-2,2.041425761,S9,2,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+591,20,S15-20-1,1.330924335,S15,1,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+592,20,S2-20-2,2.906097871,S2,2,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+593,20,S9-20-1,1.183480911,S9,1,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+594,20,S8-20-2,3.737605616,S8,2,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+595,20,S12-20-2,2.612821776,S12,2,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+596,20,S12-20-3,2.120050348,S12,3,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+597,20,S8-20-1,4.330398737,S8,1,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+598,20,S5-20-3,-1.487094599,S5,3,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+599,20,S4-20-1,3.733863768,S4,1,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+600,20,S7-20-2,1.127534674,S7,2,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+601,20,S5-20-2,-1.459954285,S5,2,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+602,20,S7-20-3,1.174311595,S7,3,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+603,20,S13-20-3,1.56679204,S13,3,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+604,20,S6-20-1,-1.012979559,S6,1,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+605,20,S3-20-1,4.013217091,S3,1,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+606,20,S15-20-2,1.62118781,S15,2,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+607,20,S15-20-3,1.406031464,S15,3,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+608,20,S1-20-2,2.179264117,S1,2,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+609,20,S1-20-3,1.308574677,S1,3,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+610,20,S2-20-3,1.134958665,S2,3,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+611,20,S16-20-3,3.061947997,S16,3,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+612,20,S11-20-1,2.923341527,S11,1,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+613,20,S11-20-2,3.078002979,S11,2,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+614,20,S3-20-3,4.232034756,S3,3,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+615,20,S4-20-2,2.310215754,S4,2,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+616,20,S13-20-2,2.147295477,S13,2,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+617,20,S4-20-3,2.991677806,S4,3,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+618,20,S10-20-3,3.685320876,S10,3,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+619,20,S6-20-2,-0.903643462,S6,2,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+620,20,S3-20-2,3.969756413,S3,2,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+621,20,S6-20-3,-1.113695445,S6,3,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+622,20,S12-20-1,2.640710186,S12,1,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+623,20,S1-20-1,1.88375123,S1,1,RS1,Resistant starch postbiotic candidate 1,Postbiotic
+624,21,S8-21-1,3.366618363,S8,1,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+625,21,S8-21-2,4.187018131,S8,2,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+626,21,S8-21-3,4.089740738,S8,3,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+627,21,S14-21-1,-0.98071609,S14,1,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+628,21,S14-21-2,-1.210631755,S14,2,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+629,21,S4-21-1,2.378486841,S4,1,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+630,21,S13-21-1,3.20838441,S13,1,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+631,21,S16-21-1,3.177119174,S16,1,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+632,21,S16-21-2,4.006329521,S16,2,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+633,21,S10-21-1,3.429426158,S10,1,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+634,21,S10-21-2,3.358991255,S10,2,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+635,21,S10-21-3,3.429585237,S10,3,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+636,21,S3-21-1,2.840781384,S3,1,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+637,21,S12-21-1,2.78323007,S12,1,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+638,21,S12-21-2,1.365245183,S12,2,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+639,21,S16-21-3,4.053794345,S16,3,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+640,21,S2-21-2,3.010309754,S2,2,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+641,21,S2-21-3,2.844977662,S2,3,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+642,21,S5-21-3,-2.032120885,S5,3,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+643,21,S2-21-1,2.750101924,S2,1,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+644,21,S7-21-1,1.586496824,S7,1,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+645,21,S7-21-3,1.768849815,S7,3,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+646,21,S13-21-2,3.391384583,S13,2,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+647,21,S13-21-3,2.59748997,S13,3,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+648,21,S9-21-2,1.378116857,S9,2,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+649,21,S15-21-1,2.065671907,S15,1,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+650,21,S6-21-2,-0.099766642,S6,2,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+651,21,S6-21-3,-0.540619043,S6,3,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+652,21,S1-21-3,2.790830348,S1,3,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+653,21,S12-21-3,2.130366814,S12,3,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+654,21,S11-21-1,2.987029611,S11,1,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+655,21,S11-21-2,2.402028782,S11,2,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+656,21,S11-21-3,2.452409866,S11,3,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+657,21,S14-21-3,-0.848306622,S14,3,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+658,21,S4-21-2,2.496495846,S4,2,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+659,21,S4-21-3,1.777182719,S4,3,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+660,21,S9-21-1,3.006995602,S9,1,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+661,21,S6-21-1,1.209341819,S6,1,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+662,21,S3-21-2,3.990011354,S3,2,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+663,21,S1-21-1,2.934396175,S1,1,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+664,21,S1-21-2,2.081696703,S1,2,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+665,21,S15-21-3,1.424942749,S15,3,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+666,21,S7-21-2,1.754283134,S7,2,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+667,21,S5-21-1,-0.833251867,S5,1,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+668,21,S9-21-3,2.039454724,S9,3,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+669,21,S3-21-3,2.984173359,S3,3,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+670,21,S5-21-2,-1.241485947,S5,2,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+671,21,S15-21-2,2.217324403,S15,2,RS2,Resistant starch postbiotic candidate 2,Postbiotic
+672,3,S3-3-3,2.993269494,S3,3,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+673,3,S8-3-2,3.484946321,S8,2,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+674,3,S8-3-3,3.540750063,S8,3,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+675,3,S14-3-2,1.275180486,S14,2,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+676,3,S14-3-3,0.564635116,S14,3,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+677,3,S2-3-2,1.490530691,S2,2,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+678,3,S15-3-2,1.642216218,S15,2,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+679,3,S6-3-2,-1.090038127,S6,2,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+680,3,S7-3-3,2.111807465,S7,3,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+681,3,S8-3-1,3.504197213,S8,1,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+682,3,S2-3-1,2.44585916,S2,1,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+683,3,S3-3-2,3.620563129,S3,2,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+684,3,S15-3-3,2.132726988,S15,3,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+685,3,S5-3-3,-1.195804877,S5,3,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+686,3,S7-3-1,2.119362982,S7,1,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+687,3,S5-3-1,-1.086519538,S5,1,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+688,3,S5-3-2,-1.62814666,S5,2,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+689,3,S4-3-3,1.923222487,S4,3,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+690,3,S9-3-1,3.303231655,S9,1,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+691,3,S15-3-1,2.356394164,S15,1,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+692,3,S3-3-1,3.556751445,S3,1,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+693,3,S1-3-1,2.2914405,S1,1,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+694,3,S9-3-3,3.477636191,S9,3,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+695,3,S1-3-3,2.366483077,S1,3,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+696,3,S12-3-3,2.255243082,S12,3,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+697,3,S11-3-1,1.101125477,S11,1,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+698,3,S11-3-2,1.838518609,S11,2,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+699,3,S11-3-3,0.925641538,S11,3,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+700,3,S13-3-1,2.889424155,S13,1,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+701,3,S7-3-2,2.714852368,S7,2,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+702,3,S16-3-2,4.13334318,S16,2,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+703,3,S16-3-3,3.932525538,S16,3,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+704,3,S10-3-2,3.040335714,S10,2,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+705,3,S10-3-3,2.567429217,S10,3,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+706,3,S9-3-2,3.074032421,S9,2,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+707,3,S12-3-1,1.921662442,S12,1,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+708,3,S14-3-1,0,S14,1,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+709,3,S12-3-2,2.692211295,S12,2,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+710,3,S2-3-3,1.634805377,S2,3,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+711,3,S16-3-1,4.189168238,S16,1,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+712,3,S1-3-2,2.66047548,S1,2,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+713,3,S6-3-3,-0.034888233,S6,3,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+714,3,S4-3-1,1.305754198,S4,1,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+715,3,S13-3-2,2.932448347,S13,2,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+716,3,S13-3-3,2.46239745,S13,3,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+717,3,S10-3-1,3.353364545,S10,1,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+718,3,S4-3-2,2.026043913,S4,2,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+719,3,S6-3-1,-0.960684899,S6,1,OBG-29%,lantamanen OBG-29% GF,Prebiotic fiber
+720,4,S7-4-1,2.851341849,S7,1,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+721,4,S3-4-2,2.275859951,S3,2,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+722,4,S7-4-2,2.332193066,S7,2,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+723,4,S16-4-1,4.099939031,S16,1,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+724,4,S8-4-1,2.927230626,S8,1,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+725,4,S8-4-2,3.395330627,S8,2,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+726,4,S6-4-2,-1.832622521,S6,2,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+727,4,S2-4-1,1.934572402,S2,1,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+728,4,S9-4-3,3.186400236,S9,3,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+729,4,S5-4-2,-1.327680427,S5,2,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+730,4,S5-4-1,-1.058213923,S5,1,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+731,4,S2-4-2,2.19571121,S2,2,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+732,4,S12-4-1,2.619468877,S12,1,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+733,4,S12-4-2,2.824207584,S12,2,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+734,4,S10-4-2,3.42343149,S10,2,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+735,4,S14-4-2,0.830810817,S14,2,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+736,4,S9-4-2,3.303745557,S9,2,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+737,4,S1-4-1,1.248914344,S1,1,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+738,4,S1-4-2,2.347396579,S1,2,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+739,4,S3-4-3,2.616601212,S3,3,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+740,4,S6-4-3,-1.422430498,S6,3,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+741,4,S8-4-3,3.55005512,S8,3,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+742,4,S15-4-1,2.202428822,S15,1,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+743,4,S14-4-3,0.570363815,S14,3,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+744,4,S5-4-3,-1.630023263,S5,3,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+745,4,S13-4-1,2.529646538,S13,1,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+746,4,S13-4-2,2.703505607,S13,2,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+747,4,S16-4-2,3.92914693,S16,2,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+748,4,S9-4-1,3.290669025,S9,1,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+749,4,S3-4-1,3.625304229,S3,1,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+750,4,S6-4-1,-1.074588429,S6,1,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+751,4,S15-4-2,2.112044799,S15,2,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+752,4,S2-4-3,1.977702704,S2,3,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+753,4,S1-4-3,1.484172043,S1,3,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+754,4,S11-4-1,2.028696921,S11,1,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+755,4,S11-4-2,1.276267438,S11,2,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+756,4,S11-4-3,1.653461446,S11,3,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+757,4,S7-4-3,2.381717704,S7,3,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+758,4,S4-4-1,2.671712138,S4,1,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+759,4,S4-4-2,1.666560066,S4,2,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+760,4,S13-4-3,2.868039518,S13,3,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+761,4,S15-4-3,1.749868062,S15,3,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+762,4,S4-4-3,1.973967653,S4,3,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+763,4,S12-4-3,2.442236067,S12,3,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+764,4,S14-4-1,0,S14,1,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+765,4,S10-4-1,3.332561773,S10,1,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+766,4,S16-4-3,2.698993653,S16,3,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+767,4,S10-4-3,2.471665542,S10,3,OBG-28% ,OBG 28% (OatWell Bran),Prebiotic fiber
+768,5,S8-5-3,3.568674851,S8,3,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+769,5,S14-5-3,0,S14,3,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+770,5,S15-5-3,3.17539894,S15,3,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+771,5,S8-5-2,3.228348809,S8,2,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+772,5,S3-5-1,3.120596576,S3,1,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+773,5,S13-5-1,1.606649919,S13,1,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+774,5,S7-5-1,1.599388326,S7,1,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+775,5,S4-5-2,2.08631711,S4,2,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+776,5,S6-5-2,-0.619354732,S6,2,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+777,5,S10-5-2,2.183198088,S10,2,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+778,5,S9-5-1,3.096558651,S9,1,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+779,5,S12-5-1,0.299448938,S12,1,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+780,5,S4-5-1,2.108021116,S4,1,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+781,5,S2-5-1,1.992417993,S2,1,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+782,5,S8-5-1,2.513927937,S8,1,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+783,5,S15-5-2,2.46157981,S15,2,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+784,5,S14-5-2,0,S14,2,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+785,5,S5-5-2,-1.855983111,S5,2,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+786,5,S5-5-3,-1.640999431,S5,3,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+787,5,S14-5-1,-0.946271232,S14,1,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+788,5,S13-5-3,0.472220451,S13,3,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+789,5,S16-5-2,3.726542304,S16,2,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+790,5,S16-5-3,3.65644952,S16,3,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+791,5,S15-5-1,3.604815786,S15,1,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+792,5,S6-5-1,-0.561327488,S6,1,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+793,5,S3-5-2,1.705359766,S3,2,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+794,5,S3-5-3,2.975714082,S3,3,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+795,5,S6-5-3,-1.007615862,S6,3,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+796,5,S11-5-1,2.522391192,S11,1,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+797,5,S5-5-1,-1.465779847,S5,1,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+798,5,S2-5-3,2.326298386,S2,3,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+799,5,S11-5-3,1.774264192,S11,3,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+800,5,S13-5-2,1.999870334,S13,2,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+801,5,S16-5-1,3.684215091,S16,1,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+802,5,S7-5-2,1.887419554,S7,2,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+803,5,S4-5-3,1.082980234,S4,3,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+804,5,S10-5-3,3.62887258,S10,3,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+805,5,S1-5-1,1.262601978,S1,1,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+806,5,S9-5-2,2.196037981,S9,2,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+807,5,S9-5-3,3.226215127,S9,3,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+808,5,S1-5-3,1.554797538,S1,3,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+809,5,S12-5-3,0.983136754,S12,3,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+810,5,S2-5-2,2.739833969,S2,2,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+811,5,S11-5-2,2.391542171,S11,2,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+812,5,S10-5-1,2.630574443,S10,1,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+813,5,S12-5-2,2.999797782,S12,2,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+814,5,S1-5-2,0.773056233,S1,2,YBG,Yeast B-glucans (YBG-Wellmune),Prebiotic fiber
+815,6,S5-6-2,-2.167818038,S5,2,Gingest,Gingest,Prebiotic fiber
+816,6,S2-6-3,2.425661721,S2,3,Gingest,Gingest,Prebiotic fiber
+817,6,S16-6-3,3.463895409,S16,3,Gingest,Gingest,Prebiotic fiber
+818,6,S11-6-3,2.738474357,S11,3,Gingest,Gingest,Prebiotic fiber
+819,6,S4-6-2,1.737190008,S4,2,Gingest,Gingest,Prebiotic fiber
+820,6,S16-6-2,3.964778939,S16,2,Gingest,Gingest,Prebiotic fiber
+821,6,S1-6-3,2.629026501,S1,3,Gingest,Gingest,Prebiotic fiber
+822,6,S10-6-1,3.112560832,S10,1,Gingest,Gingest,Prebiotic fiber
+823,6,S9-6-2,2.420515122,S9,2,Gingest,Gingest,Prebiotic fiber
+824,6,S6-6-1,-1.654166404,S6,1,Gingest,Gingest,Prebiotic fiber
+825,6,S8-6-2,3.957342829,S8,2,Gingest,Gingest,Prebiotic fiber
+826,6,S11-6-1,1.871553695,S11,1,Gingest,Gingest,Prebiotic fiber
+827,6,S14-6-1,0,S14,1,Gingest,Gingest,Prebiotic fiber
+828,6,S8-6-1,3.869666593,S8,1,Gingest,Gingest,Prebiotic fiber
+829,6,S2-6-1,1.568901414,S2,1,Gingest,Gingest,Prebiotic fiber
+830,6,S7-6-2,2.280333856,S7,2,Gingest,Gingest,Prebiotic fiber
+831,6,S13-6-1,0.965474821,S13,1,Gingest,Gingest,Prebiotic fiber
+832,6,S16-6-1,3.995837974,S16,1,Gingest,Gingest,Prebiotic fiber
+833,6,S7-6-1,2.215053118,S7,1,Gingest,Gingest,Prebiotic fiber
+834,6,S3-6-1,2.857239509,S3,1,Gingest,Gingest,Prebiotic fiber
+835,6,S12-6-1,1.447852457,S12,1,Gingest,Gingest,Prebiotic fiber
+836,6,S1-6-2,2.498323518,S1,2,Gingest,Gingest,Prebiotic fiber
+837,6,S6-6-2,-1.449612209,S6,2,Gingest,Gingest,Prebiotic fiber
+838,6,S6-6-3,-1.214032268,S6,3,Gingest,Gingest,Prebiotic fiber
+839,6,S3-6-3,2.443677753,S3,3,Gingest,Gingest,Prebiotic fiber
+840,6,S11-6-2,1.793654663,S11,2,Gingest,Gingest,Prebiotic fiber
+841,6,S8-6-3,3.059905,S8,3,Gingest,Gingest,Prebiotic fiber
+842,6,S14-6-3,1.318955578,S14,3,Gingest,Gingest,Prebiotic fiber
+843,6,S5-6-3,-1.778664814,S5,3,Gingest,Gingest,Prebiotic fiber
+844,6,S4-6-1,2.235468464,S4,1,Gingest,Gingest,Prebiotic fiber
+845,6,S13-6-2,2.057964727,S13,2,Gingest,Gingest,Prebiotic fiber
+846,6,S13-6-3,2.214305205,S13,3,Gingest,Gingest,Prebiotic fiber
+847,6,S9-6-1,3.588123512,S9,1,Gingest,Gingest,Prebiotic fiber
+848,6,S1-6-1,1.881545152,S1,1,Gingest,Gingest,Prebiotic fiber
+849,6,S15-6-1,0.769473899,S15,1,Gingest,Gingest,Prebiotic fiber
+850,6,S15-6-2,2.036629405,S15,2,Gingest,Gingest,Prebiotic fiber
+851,6,S15-6-3,3.352464198,S15,3,Gingest,Gingest,Prebiotic fiber
+852,6,S9-6-3,3.910159384,S9,3,Gingest,Gingest,Prebiotic fiber
+853,6,S3-6-2,2.788365395,S3,2,Gingest,Gingest,Prebiotic fiber
+854,6,S4-6-3,2.194449396,S4,3,Gingest,Gingest,Prebiotic fiber
+855,6,S14-6-2,1.902415843,S14,2,Gingest,Gingest,Prebiotic fiber
+856,6,S5-6-1,-2.305426845,S5,1,Gingest,Gingest,Prebiotic fiber
+857,6,S10-6-2,2.94824831,S10,2,Gingest,Gingest,Prebiotic fiber
+858,6,S2-6-2,2.213317862,S2,2,Gingest,Gingest,Prebiotic fiber
+859,6,S10-6-3,3.338632398,S10,3,Gingest,Gingest,Prebiotic fiber
+860,6,S12-6-2,0.683091299,S12,2,Gingest,Gingest,Prebiotic fiber
+861,6,S12-6-3,1.373047377,S12,3,Gingest,Gingest,Prebiotic fiber
+862,6,S7-6-3,1.784509037,S7,3,Gingest,Gingest,Prebiotic fiber
+863,7,S13-7-1,1.679758984,S13,1,Inulin,Inulin,Prebiotic control
+864,7,S7-7-1,1.042149481,S7,1,Inulin,Inulin,Prebiotic control
+865,7,S7-7-2,0.869949443,S7,2,Inulin,Inulin,Prebiotic control
+866,7,S9-7-2,2.281180345,S9,2,Inulin,Inulin,Prebiotic control
+867,7,S13-7-3,1.875866605,S13,3,Inulin,Inulin,Prebiotic control
+868,7,S11-7-1,1.399914879,S11,1,Inulin,Inulin,Prebiotic control
+869,7,S2-7-1,2.030722301,S2,1,Inulin,Inulin,Prebiotic control
+870,7,S2-7-2,2.266694917,S2,2,Inulin,Inulin,Prebiotic control
+871,7,S10-7-2,2.410498505,S10,2,Inulin,Inulin,Prebiotic control
+872,7,S11-7-3,1.65345029,S11,3,Inulin,Inulin,Prebiotic control
+873,7,S14-7-3,1.514245803,S14,3,Inulin,Inulin,Prebiotic control
+874,7,S3-7-3,4.188001413,S3,3,Inulin,Inulin,Prebiotic control
+875,7,S16-7-3,3.869550736,S16,3,Inulin,Inulin,Prebiotic control
+876,7,S4-7-3,2.143134314,S4,3,Inulin,Inulin,Prebiotic control
+877,7,S5-7-3,-1.283804449,S5,3,Inulin,Inulin,Prebiotic control
+878,7,S15-7-3,2.874962276,S15,3,Inulin,Inulin,Prebiotic control
+879,7,S12-7-2,1.102854787,S12,2,Inulin,Inulin,Prebiotic control
+880,7,S3-7-1,4.037483426,S3,1,Inulin,Inulin,Prebiotic control
+881,7,S3-7-2,3.183827435,S3,2,Inulin,Inulin,Prebiotic control
+882,7,S8-7-2,3.887582796,S8,2,Inulin,Inulin,Prebiotic control
+883,7,S14-7-1,0.568453443,S14,1,Inulin,Inulin,Prebiotic control
+884,7,S11-7-2,1.558698658,S11,2,Inulin,Inulin,Prebiotic control
+885,7,S5-7-1,-1.640543495,S5,1,Inulin,Inulin,Prebiotic control
+886,7,S2-7-3,0,S2,3,Inulin,Inulin,Prebiotic control
+887,7,S6-7-1,-0.038286134,S6,1,Inulin,Inulin,Prebiotic control
+888,7,S13-7-2,2.828676055,S13,2,Inulin,Inulin,Prebiotic control
+889,7,S16-7-1,3.00751404,S16,1,Inulin,Inulin,Prebiotic control
+890,7,S7-7-3,1.007288826,S7,3,Inulin,Inulin,Prebiotic control
+891,7,S8-7-1,3.307234885,S8,1,Inulin,Inulin,Prebiotic control
+892,7,S15-7-1,2.630179302,S15,1,Inulin,Inulin,Prebiotic control
+893,7,S9-7-1,2.419858827,S9,1,Inulin,Inulin,Prebiotic control
+894,7,S1-7-3,1.342088338,S1,3,Inulin,Inulin,Prebiotic control
+895,7,S12-7-3,1.013056919,S12,3,Inulin,Inulin,Prebiotic control
+896,7,S6-7-3,-0.677213709,S6,3,Inulin,Inulin,Prebiotic control
+897,7,S4-7-1,3.344413426,S4,1,Inulin,Inulin,Prebiotic control
+898,7,S10-7-1,2.387639448,S10,1,Inulin,Inulin,Prebiotic control
+899,7,S6-7-2,-1.332504855,S6,2,Inulin,Inulin,Prebiotic control
+900,7,S14-7-2,0,S14,2,Inulin,Inulin,Prebiotic control
+901,7,S5-7-2,-1.461945757,S5,2,Inulin,Inulin,Prebiotic control
+902,7,S1-7-2,2.022144332,S1,2,Inulin,Inulin,Prebiotic control
+903,7,S10-7-3,2.459088109,S10,3,Inulin,Inulin,Prebiotic control
+904,7,S12-7-1,2.187328017,S12,1,Inulin,Inulin,Prebiotic control
+905,7,S1-7-1,1.315067024,S1,1,Inulin,Inulin,Prebiotic control
+906,7,S9-7-3,0.759473687,S9,3,Inulin,Inulin,Prebiotic control
+907,7,S15-7-2,2.472782881,S15,2,Inulin,Inulin,Prebiotic control
+908,7,S4-7-2,2.121988741,S4,2,Inulin,Inulin,Prebiotic control
+909,7,S16-7-2,3.182699485,S16,2,Inulin,Inulin,Prebiotic control
+910,7,S8-7-3,3.873001917,S8,3,Inulin,Inulin,Prebiotic control
+911,8,S8-8-1,3.294997141,S8,1,AXOS,AXOS,Prebiotic fiber
+912,8,S3-8-1,2.179745451,S3,1,AXOS,AXOS,Prebiotic fiber
+913,8,S1-8-1,2.176840148,S1,1,AXOS,AXOS,Prebiotic fiber
+914,8,S4-8-1,2.153947866,S4,1,AXOS,AXOS,Prebiotic fiber
+915,8,S14-8-1,0,S14,1,AXOS,AXOS,Prebiotic fiber
+916,8,S2-8-1,2.17060027,S2,1,AXOS,AXOS,Prebiotic fiber
+917,8,S11-8-1,1.164539945,S11,1,AXOS,AXOS,Prebiotic fiber
+918,8,S9-8-1,2.713780388,S9,1,AXOS,AXOS,Prebiotic fiber
+919,8,S5-8-1,-2.002071696,S5,1,AXOS,AXOS,Prebiotic fiber
+920,8,S13-8-1,1.105287319,S13,1,AXOS,AXOS,Prebiotic fiber
+921,8,S15-8-1,1.538844695,S15,1,AXOS,AXOS,Prebiotic fiber
+922,8,S7-8-1,1.47866138,S7,1,AXOS,AXOS,Prebiotic fiber
+923,8,S6-8-1,-0.870820373,S6,1,AXOS,AXOS,Prebiotic fiber
+924,8,S10-8-1,3.3739917,S10,1,AXOS,AXOS,Prebiotic fiber
+925,8,S12-8-1,1.874746305,S12,1,AXOS,AXOS,Prebiotic fiber
+926,9,S6-9-2,0.695931868,S6,2,Agrifiber,Agrifiber,Prebiotic fiber
+927,9,S4-9-2,2.233337156,S4,2,Agrifiber,Agrifiber,Prebiotic fiber
+928,9,S11-9-3,1.716234748,S11,3,Agrifiber,Agrifiber,Prebiotic fiber
+929,9,S15-9-3,2.553953716,S15,3,Agrifiber,Agrifiber,Prebiotic fiber
+930,9,S6-9-1,0,S6,1,Agrifiber,Agrifiber,Prebiotic fiber
+931,9,S13-9-2,2.662208268,S13,2,Agrifiber,Agrifiber,Prebiotic fiber
+932,9,S13-9-3,2.661492881,S13,3,Agrifiber,Agrifiber,Prebiotic fiber
+933,9,S8-9-3,3.107030082,S8,3,Agrifiber,Agrifiber,Prebiotic fiber
+934,9,S7-9-3,1.806204293,S7,3,Agrifiber,Agrifiber,Prebiotic fiber
+935,9,S1-9-1,1.868114841,S1,1,Agrifiber,Agrifiber,Prebiotic fiber
+936,9,S1-9-2,1.13522478,S1,2,Agrifiber,Agrifiber,Prebiotic fiber
+937,9,S9-9-1,1.999758266,S9,1,Agrifiber,Agrifiber,Prebiotic fiber
+938,9,S9-9-2,3.230527992,S9,2,Agrifiber,Agrifiber,Prebiotic fiber
+939,9,S9-9-3,2.340401839,S9,3,Agrifiber,Agrifiber,Prebiotic fiber
+940,9,S11-9-1,1.460741389,S11,1,Agrifiber,Agrifiber,Prebiotic fiber
+941,9,S2-9-1,2.800507487,S2,1,Agrifiber,Agrifiber,Prebiotic fiber
+942,9,S15-9-2,3.15041487,S15,2,Agrifiber,Agrifiber,Prebiotic fiber
+943,9,S2-9-3,2.773370287,S2,3,Agrifiber,Agrifiber,Prebiotic fiber
+944,9,S4-9-1,2.289770981,S4,1,Agrifiber,Agrifiber,Prebiotic fiber
+945,9,S1-9-3,1.512372907,S1,3,Agrifiber,Agrifiber,Prebiotic fiber
+946,9,S2-9-2,2.793526488,S2,2,Agrifiber,Agrifiber,Prebiotic fiber
+947,9,S10-9-3,3.575666899,S10,3,Agrifiber,Agrifiber,Prebiotic fiber
+948,9,S4-9-3,2.572930656,S4,3,Agrifiber,Agrifiber,Prebiotic fiber
+949,9,S13-9-1,1.820855411,S13,1,Agrifiber,Agrifiber,Prebiotic fiber
+950,9,S10-9-2,3.575926829,S10,2,Agrifiber,Agrifiber,Prebiotic fiber
+951,9,S12-9-2,1.487872321,S12,2,Agrifiber,Agrifiber,Prebiotic fiber
+952,9,S12-9-3,1.727528409,S12,3,Agrifiber,Agrifiber,Prebiotic fiber
+953,9,S6-9-3,-0.162721222,S6,3,Agrifiber,Agrifiber,Prebiotic fiber
+954,9,S15-9-1,2.213313739,S15,1,Agrifiber,Agrifiber,Prebiotic fiber
+955,9,S14-9-1,0,S14,1,Agrifiber,Agrifiber,Prebiotic fiber
+956,9,S14-9-2,-0.644337231,S14,2,Agrifiber,Agrifiber,Prebiotic fiber
+957,9,S14-9-3,-1.39288037,S14,3,Agrifiber,Agrifiber,Prebiotic fiber
+958,9,S8-9-2,3.211916862,S8,2,Agrifiber,Agrifiber,Prebiotic fiber
+959,9,S16-9-1,3.845177218,S16,1,Agrifiber,Agrifiber,Prebiotic fiber
+960,9,S16-9-2,3.861423324,S16,2,Agrifiber,Agrifiber,Prebiotic fiber
+961,9,S16-9-3,3.845919214,S16,3,Agrifiber,Agrifiber,Prebiotic fiber
+962,9,S10-9-1,2.438206204,S10,1,Agrifiber,Agrifiber,Prebiotic fiber
+963,9,S12-9-1,1.790021317,S12,1,Agrifiber,Agrifiber,Prebiotic fiber
+964,9,S3-9-1,3.709980579,S3,1,Agrifiber,Agrifiber,Prebiotic fiber
+965,9,S3-9-2,3.770158735,S3,2,Agrifiber,Agrifiber,Prebiotic fiber
+966,9,S3-9-3,2.026270938,S3,3,Agrifiber,Agrifiber,Prebiotic fiber
+967,9,S8-9-1,3.106235853,S8,1,Agrifiber,Agrifiber,Prebiotic fiber
+968,9,S11-9-2,1.429323967,S11,2,Agrifiber,Agrifiber,Prebiotic fiber
+969,9,S5-9-1,-1.56957401,S5,1,Agrifiber,Agrifiber,Prebiotic fiber
+970,9,S5-9-2,-1.535920077,S5,2,Agrifiber,Agrifiber,Prebiotic fiber
+971,9,S5-9-3,-1.936215997,S5,3,Agrifiber,Agrifiber,Prebiotic fiber
+972,9,S7-9-1,1.634481029,S7,1,Agrifiber,Agrifiber,Prebiotic fiber
+973,9,S7-9-2,1.699573172,S7,2,Agrifiber,Agrifiber,Prebiotic fiber
+974,FBB0,S1-FBB0,1.553446602,S1,1,FBB0,FBB0,FBB0
+975,FBB0,S10-FBB0,2.613781411,S10,1,FBB0,FBB0,FBB0
+976,FBB0,S11-FBB0,1.565490739,S11,1,FBB0,FBB0,FBB0
+977,FBB0,S12-FBB0,2.112135258,S12,1,FBB0,FBB0,FBB0
+978,FBB0,S13-FBB0,1.156143525,S13,1,FBB0,FBB0,FBB0
+979,FBB0,S14-FBB0,0.473527728,S14,1,FBB0,FBB0,FBB0
+980,FBB0,S15-FBB0,2.062986279,S15,1,FBB0,FBB0,FBB0
+981,FBB0,S16-FBB0,3.93047589,S16,1,FBB0,FBB0,FBB0
+982,FBB0,S2-FBB0,2.399311263,S2,1,FBB0,FBB0,FBB0
+983,FBB0,S3-FBB0,2.310546376,S3,1,FBB0,FBB0,FBB0
+984,FBB0,S4-FBB0,1.879559137,S4,1,FBB0,FBB0,FBB0
+985,FBB0,S5-FBB0,-2.083208267,S5,1,FBB0,FBB0,FBB0
+986,FBB0,S6-FBB0,-0.722834308,S6,1,FBB0,FBB0,FBB0
+987,FBB0,S7-FBB0,1.292834424,S7,1,FBB0,FBB0,FBB0
+988,FBB0,S8-FBB0,3.404568026,S8,1,FBB0,FBB0,FBB0
+989,FBB0,S9-FBB0,2.769377929,S9,1,FBB0,FBB0,FBB0
+990,FBB16,S1-FBB16,1.3525294,S1,1,FBB16,FBB16,FBB16
+991,FBB16,S10-FBB16,1.932638871,S10,1,FBB16,FBB16,FBB16
+992,FBB16,S11-FBB16,1.251828539,S11,1,FBB16,FBB16,FBB16
+993,FBB16,S12-FBB16,0.847142617,S12,1,FBB16,FBB16,FBB16
+994,FBB16,S13-FBB16,2.620407578,S13,1,FBB16,FBB16,FBB16
+995,FBB16,S14-FBB16,-0.777276289,S14,1,FBB16,FBB16,FBB16
+996,FBB16,S15-FBB16,1.561307102,S15,1,FBB16,FBB16,FBB16
+997,FBB16,S16-FBB16,4.067400689,S16,1,FBB16,FBB16,FBB16
+998,FBB16,S2-FBB16,3.213076291,S2,1,FBB16,FBB16,FBB16
+999,FBB16,S3-FBB16,1.893716596,S3,1,FBB16,FBB16,FBB16
+1000,FBB16,S4-FBB16,1.696708081,S4,1,FBB16,FBB16,FBB16
+1001,FBB16,S5-FBB16,-2.293215134,S5,1,FBB16,FBB16,FBB16
+1002,FBB16,S6-FBB16,-1.9362761,S6,1,FBB16,FBB16,FBB16
+1003,FBB16,S7-FBB16,0.049883418,S7,1,FBB16,FBB16,FBB16
+1004,FBB16,S8-FBB16,3.549680591,S8,1,FBB16,FBB16,FBB16
+1005,FBB16,S9-FBB16,0.220721686,S9,1,FBB16,FBB16,FBB16
