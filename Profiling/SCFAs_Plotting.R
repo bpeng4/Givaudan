@@ -3,6 +3,8 @@ library(ggpubr)
 library(dplyr)
 library(stringi)
 library(stringr)
+library(agricolae)
+
 
 
 set1<-read.csv(file = "/Users/bopeng/Documents/Givaudan/Cache/FinalPlate1-12New.csv")
@@ -50,8 +52,9 @@ Givaudan_SCFA <- Givaudan_SCFA %>% arrange(Sample_Abbr)
 Givaudan_SCFA_clean <- Givaudan_SCFA %>%
   filter(!is.na(SCFAs), !is.nan(SCFAs), !is.infinite(SCFAs))
 
-anova_model <- aov(SCFAs ~ Type * Microbiome * Sample *Rep, data = Givaudan_SCFA_clean)
-summary(anova_model)
+###Anova Test
+#anova_model <- aov(SCFAs ~ Type * Microbiome * Sample *Rep, data = Givaudan_SCFA_clean)
+#summary(anova_model)
 
 #Plot and with anova test for SCFAs comparison among Samples
 # Step 1: Calculate 95th percentile for each Type
@@ -87,7 +90,7 @@ ggplot(Givaudan_SCFA_trimmed, aes(x = Sample, y = SCFAs, fill = Sample)) +
  # Define plotting function
  Sample_SCFAs <- function(Givaudan_SCFA, Microbiome) {
    # Create plot
-   ggplot(Givaudan_SCFA_trimmed, aes(x = Sample, y = SCFAs, fill = Sample)) +
+   ggplot(Givaudan_SCFA, aes(x = Sample, y = SCFAs, fill = Sample)) +
      geom_boxplot() +
      facet_wrap(~Type, scales = "free_y") +
      stat_compare_means(method = "anova", size = 3, label.x = 2.5) +
@@ -107,11 +110,59 @@ ggplot(Givaudan_SCFA_trimmed, aes(x = Sample, y = SCFAs, fill = Sample)) +
  }
  
  # Ensure `Givaudan_SCFA` is defined if using it for unique Microbiome extraction
- Microbiome_list <- unique(Givaudan_SCFA$Microbiome)
+ Microbiome_list <- unique(Givaudan_SCFA_trimmed$Microbiome)
  
  # Loop over each microbiome group
  for (i in Microbiome_list) {
-   Sub_Givaudan_SCFA <- Givaudan_SCFA[Givaudan_SCFA$Microbiome == i, ]
+   Sub_Givaudan_SCFA <- Givaudan_SCFA_trimmed[Givaudan_SCFA_trimmed$Microbiome == i, ]
    print(Sample_SCFAs(Sub_Givaudan_SCFA, i))
  }
+ 
+
+## Do the Duncan Test for Acetate
+# Mean and SE by treatment
+ Givaudan_Acetate <- Givaudan_SCFA_trimmed[Givaudan_SCFA_trimmed$Type == "Acetate",]
+ 
+ aggregate(SCFAs ~ Sample, Givaudan_Acetate, function(x) c(mean = mean(x), se = sd(x)/sqrt(length(x))))
+ 
+ # ANOVA + Duncan
+ model <- aov(SCFAs ~ Sample, data = Givaudan_Acetate)
+ summary(model)
+ duncan_result <- duncan.test(model, "Sample", console = TRUE)
+ 
+ write.csv(duncan_result[4], file = "/Users/bopeng/Documents/GitHub/Givaudan/Plot/Acetate_Duncan_Mean_SE.csv" )
+ write.csv(duncan_result[6], file = "/Users/bopeng/Documents/GitHub/Givaudan/Plot/Acetate_Post_Hoc_Comparison.csv" )
+ 
+ 
+## Write A function and do for loop for each SCFA Duncan Test
+SCFAs_Duncan <- function(Givaudan_SCFA_sub, i) {
+  # ANOVA + Duncan
+  model <- aov(SCFAs ~ Sample, data = Givaudan_SCFA_sub)
+  summary(model)
+  duncan_result <- duncan.test(model, "Sample", console = TRUE)
+  
+  write.csv(duncan_result[4], file = paste("/Users/bopeng/Documents/GitHub/Givaudan/Plot/", i, "_Duncan_Mean_SE.csv") )
+  write.csv(duncan_result[6], file = paste("/Users/bopeng/Documents/GitHub/Givaudan/Plot/", i, "_Post_Hoc_Comparison.csv") )
+  
+}
+
+Givaudan_SCFAs <- unique(Givaudan_SCFA_trimmed$Type)
+
+for (i in Givaudan_SCFAs) {
+  Givaudan_SCFA_sub <- Givaudan_SCFA_trimmed[Givaudan_SCFA_trimmed$Type == i,]
+  SCFAs_Duncan(Givaudan_SCFA_sub, i)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
  
